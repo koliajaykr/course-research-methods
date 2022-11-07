@@ -46,7 +46,22 @@ countdown::countdown(minutes = 05, right = "20%", top = "-4%", play_sound = TRUE
 
 {style="color:#ffffff"}
 
+[red words]{style="color:#cc0000"}
+
+## Size of a larger chunk
+
+::: {style="font-size: 1.5em; text-align: center"}
+text
+
+text
+
+text
+:::
+
+
 ## Research
 
 > "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
 
+::: {.nonincremental}
+:::

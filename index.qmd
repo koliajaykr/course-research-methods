@@ -6,10 +6,8 @@ format:
     smooth-scroll: true
     theme: style.scss
     incremental: true
-    slide-number: c/t
-    gfm:
-      mermaid-format: png
-logo: "image/logo.png"
+    #slide-number: c/t
+#logo: "image/logo.png"
 transition: fade
 collapse: true
 code-link: true
@@ -22,7 +20,8 @@ title-slide-attributes:
   data-background-position: "right"
   data-background-opacity: "0.3"
 bibliography: references.bib
-controls: true
+#controls: true
+image: "featured.png"
 revealjs-plugins:
   - pointer
 ---
@@ -58,7 +57,7 @@ Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< 
 :::
 
 ::: callout-warning
-:running_man: :running_woman: BE ON TIME
+:running_man: :running_woman: [**BE ON TIME**]{style="color:#cc0000"} (plan for ten minutes early)
 :::
 
 ------------------------------------------------------------------------
@@ -66,11 +65,13 @@ Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< 
 ::: callout-note
 ## During the Sessions
 
-:stars: These slides's online link is 
+:stars: These slide's online link is <https://research-methods.netlify.app/> 
 
 :brain: Your Turn
 
 :speaking_head: Interact during the sessions
+
+:pray: Be Kind!
 :::
 
 ## :brain: Your Turn
