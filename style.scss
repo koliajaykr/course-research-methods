@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// fonts
+
+$code-block-font-size: 6.6em;
+
+/*-- scss:rules --*/
+
+.reveal .big-text {
+  position: absolute;
+  font-size: 3em;
+  text-align: center;
+}
+
+.reveal .slide .goal {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  padding-left: 1em;
+  background: #ccddeb;
+}
+
+.reveal .inverse {
+  text-align: right;
+}
+

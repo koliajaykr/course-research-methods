@@ -1,0 +1,1580 @@
+---
+title: "RESEARCH METHODS"
+author: "Ajay Koli"
+format: 
+  revealjs:
+    smooth-scroll: true
+    theme: style.scss
+    incremental: true
+    slide-number: c/t
+    gfm:
+      mermaid-format: png
+logo: "image/logo.png"
+transition: fade
+collapse: true
+code-link: true
+scrollable: true
+from: markdown+emoji
+editor: visual
+title-slide-attributes: 
+  data-background-image: "image/why.jpg"
+  data-background-size: "cover"
+  data-background-position: "right"
+  data-background-opacity: "0.3"
+bibliography: references.bib
+controls: true
+revealjs-plugins:
+  - pointer
+---
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+<br> <br>
+
+![](image/logo.png)
+:::
+
+::: {.column width="50%"}
+![](image/ajay.png){fig-align="center" width="275"}
+
+Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< fa envelope >}} [koliajaykumar\@gmail.com](koliajaykumar@gmail.com) <br>{{< fa brands twitter >}} [ajay_kolii](https://twitter.com/ajay_kolii)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Schedule
+
+:date: From 07 Nov to 30 Nov 2022
+
+:alarm_clock: From 6:00 to 8:00 PM IST
+
+:traffic_light: 7\~10 minutes of a break during each session
+
+:coffee: Total 30\~35 hours of teaching
+:::
+
+::: callout-warning
+:running_man: :running_woman: BE ON TIME
+:::
+
+------------------------------------------------------------------------
+
+::: callout-note
+## During the Sessions
+
+:stars: These slides's online link is 
+
+:brain: Your Turn
+
+:speaking_head: Interact during the sessions
+:::
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 05, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+<br>
+
+::: goal
+Please write what comes to your mind when you hear the word research.
+:::
+
+# [why?]{style="color:#ffffff"} {.big-text background-image="image/why.jpg"}
+
+# [stories]{style="color:#ffffff"} {.big-text background-image="image/story.jpg" background-opacity="1"}
+
+::: notes
+religion based stories
+
+nature and natural laws called as metaphysics
+:::
+
+# [science]{style="color:#ffffff"} {.big-text background-image="image/sci.jpg"}
+
+::: notes
+knowledge based upon observations rather than on belief.
+:::
+
+## :earth_asia: Science
+
+"A set of logical, systematic, documented methods for investigating **nature and natural processes**; the knowledge produced by these investigations."[^1]
+
+[^1]: @chamblissMakingSenseSocial2018
+
+## :handshake: Social Science
+
+"The use of scientific methods to investigate **individuals, societies, and social processes**; the knowledge produced by these investigations."[^2]
+
+[^2]: @chamblissMakingSenseSocial2018
+
+## Inquiry[^3]
+
+[^3]: @babbiePracticeSocialResearch2020
+
+-   **Agreement Reality:** Those things we "know" as part and parcel of the culture we share with those around us.
+
+-   **Epistemology:** The science of knowing systems of knowledge.
+
+-   **Methodology:** The science of finding out; procedures for scientific investigation.
+
+## :thinking: Why Research?
+
+"Research results in the **creation of knowledge** to solve a problem, answer a question, and better describe or understand something." [^4]
+
+[^4]: @cloughStudentGuideMethodology2012
+
+## Define Research
+
+"the **process** of finding solutions to a problem after a thorough study and analysis of the situational factors"[^5]
+
+[^5]: @sekaranResearchMethodsBusiness2016
+
+## Define Research
+
+"is about asking questions, exploring problems and **reflecting on** what emerges in order to make meaning from the data and tell the **research story**"[^6]
+
+[^6]: @cloughStudentGuideMethodology2012
+
+## Types of Business Research[^7]
+
+[^7]: @sekaranResearchMethodsBusiness2016
+
+-   :fire_extinguisher: **Applied research:** "to solve a current problem faced by the manager in the work setting, demanding a timely solution"
+
+-   :books: **Basic research:** "to generate a body of knowledge by trying to comprehend how certain problems that occur in organizations can be solved."
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 05, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+<br>
+
+::: goal
+If you have to conduct research what will be your reason(s) and why?
+:::
+
+# [rm help]{style="color:#000000"} {.big-text background-image="image/help.jpg" background-opacity="0.5"}
+
+## Research Methods Help to Avoid[^8]:
+
+[^8]: @chamblissMakingSenseSocial2018
+
+::: nonincremental
+-   Over-generalization
+
+-   Selective or inaccurate observation
+
+-   Illogical reasoning
+
+-   Resistance to change\
+:::
+
+::: callout-important
+-   **Generalization** will be coming back again and again in future sessions kindly make a note of it.
+:::
+
+## Research Methods Help to Avoid:
+
+**Over-generalization:** "Occurs when we unjustifiably conclude that what is true for some cases is true for all cases"
+
+![](image/observation1.png){fig-align="center"}
+
+## Research Methods Help to Avoid:
+
+**Selective or inaccurate observation:** "Choosing to look only at things that are in line with our preferences or beliefs."
+
+![](image/observation2.png){fig-align="center"}
+
+## Research Methods Help to Avoid:
+
+**Illogical reasoning:** "The premature jumping to conclusions or arguing on the basis of invalid assumptions."
+
+![](image/observation.png){fig-align="center"}
+
+## Research Methods Help to Avoid:
+
+**Resistance to change:** "The reluctance to change our ideas in light of new information."
+
+![](image/observation.png){fig-align="center"}
+
+# [goal]{style="color:#000000"} {.big-text background-image="image/goal1.jpg" background-opacity="1"}
+
+## Four Goals of Social Research Are:[^9]
+
+[^9]: @chamblissMakingSenseSocial2018
+
+::: nonincremental
+1.  To Describe
+
+2.  To Explore
+
+3.  To Explain
+
+4.  To Evaluate
+:::
+
+## Descriptive Research
+
+Research in which social phenomena are defined and described.
+
+![](image/describe.jpg){fig-align="center"}
+
+## Exploratory Research
+
+Seeks to find out how people get along in the setting under question, what **meanings** they give to their actions, and what issues concern them.
+
+![](image/explore.jpg){fig-align="center"}
+
+## Explanatory (Causal) Research
+
+Seeks to identify causes and effects of social phenomena and to **predict** how one phenomenon will change or vary in response to variation in another phenomenon.
+
+![](image/causal.jpg){fig-align="center"}
+
+## Evaluation Research
+
+Research that describes or identifies the **impact** of social policies and programs.
+
+![](image/eval.jpg){fig-align="center"}
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 02, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+:point_down: What is the goal of this research paper?
+:::
+
+![Paper 1, <https://academic.oup.com/jpubhealth/article/33/2/160/1591440>](image/goal-prob1.png)
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 02, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+:point_down: What is the goal of this research paper?
+:::
+
+![Paper 2, <https://www.emerald.com/insight/content/doi/10.1108/JIMA-06-2018-0101/full/html>](image/goal-prob2.png)
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 02, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+:point_down: What is the goal of this research paper?
+:::
+
+![Paper 3, <https://ieeexplore.ieee.org/abstract/document/9282866>](image/goal-prob3.png)
+
+# Research<br>Approaches {#sec-approach background-image="image/three.jpg" background-size="contain" background-position="right"}
+
+## Research Approach[^10]
+
+[^10]: @creswellResearchDesignQualitative2018
+
+-   "Research approaches are **plans and the procedures** for research that span the steps from broad assumptions to detailed methods of data collection, analysis, and interpretation."
+
+-   "It involves the **intersection** of philosophical assumptions, designs and specific methods."
+
+## Three Research Approaches are:
+
+::: nonincremental
+1.  Qualitative
+2.  Quantitative, and
+3.  Mixed methods
+:::
+
+## Qualitative Approach
+
+::: {columns}
+::: {.column width="60%"}
+-   "using **words**"
+
+-   "for exploring and understanding the **meaning** individuals or groups ascribe to a social or human problem."
+
+-   **open-ended** questions and responses
+
+-   **flexible** report structure
+:::
+
+::: {.column width="40%"}
+![For example: Domestic abuse/violence](image/abuse.jpg){fig-align="center"}
+:::
+:::
+
+## Quantitative Approach
+
+::: {columns}
+::: {.column width="60%"}
+-   use **numbers**
+
+-   "for **testing** objective theories by examining relationship among variables"
+
+-   **closed-ended** questions and responses
+
+-   set structure
+:::
+
+::: {.column width="40%"}
+![For example: Video games and agression](image/gaming.jpg){fig-align="center"}
+:::
+:::
+
+## Mixed Methods Approach
+
+::: {columns}
+::: {.column width="60%"}
+-   "an inquiry involving collecting both quantitative and qualitative data, **integrating the two forms of data**, and using distinct designs that may involve philosophical assumptions and theoretical frameworks."
+:::
+
+::: {.column width="40%"}
+![For example: Gender and alcohol](image/alcohol.jpg){fig-align="center"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+Qualitative methods, mixed methods, quantitative methods. <a href="https://t.co/6iv8izV6Ag">pic.twitter.com/6iv8izV6Ag</a>
+
+</p>
+
+--- Dr Raul Pacheco-Vega (@raulpacheco) <a href="https://twitter.com/raulpacheco/status/1458808875222802433?ref_src=twsrc%5Etfw">November 11, 2021</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+------------------------------------------------------------------------
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 10, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+Which research approach will you use to study the consumer satisfaction level for each product in India? And why?
+:::
+
+::: {layout-ncol="3"}
+![Study 1 Tide Powder](https://m.media-amazon.com/images/I/81YakxRZLzL._SL1500_.jpg){width="250"}
+
+![Study 2 Maggi](https://www.littleindia.pl/media/products/6f0444069f6334158a1c5ac04c78a59a/images/thumbnail/big_81RW3B40z0S-SX522-.jpg?lm=1630613860){width="250"}
+
+![Study 3 Royal Enfield Bike](https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/colors/studio-shots/dual-channel/dark-stealth-black/01-dark-stealth-black.png){width="450"}
+:::
+
+# [Three Components]{style="color:#cc0000"} Involved in Research Approach which form A [Framework]{style="color:#cc0000"} for Research
+
+# [frame<br>work]{style="color:#ffffff"} {#sec-cookbook .big-text background-image="image/framework.jpg" background-size="cover" style="text-align: center"}
+
+## A Framework for Research
+
+is the :spider_web: **interconnection** of:
+
+::: nonincremental
+-   Philosophical World-views,
+
+-   Research Designs, &
+
+-   Research Methods
+:::
+
+## A Framework for Research[^11]
+
+[^11]: @creswellResearchDesignQualitative2018
+
+![](image/framework-research.jpg){fig-align="center" width="800"}
+
+## Philosophical World-view:
+
+"A general philosophical orientation about the world and the nature of research that a researcher brings to a study"
+
+![](image/framework-research.jpg){fig-align="center"}
+
+## Post-positivism:
+
+::: {column}
+::: {.column width="65%"}
+-   Determination (cause & effect)
+
+-   Reductionism <br>(concept $\rightarrow$ variables $\rightarrow$ hypothesis)
+
+-   Empirical observation and measurement
+
+-   Theory verification
+:::
+
+::: {.column width="35%"}
+![](image/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Constructivist:
+
+::: {column}
+::: {.column width="60%"}
+-   Understanding
+
+-   Multiple participant meanings
+
+-   Social & historical construction
+
+-   Theory generation
+:::
+
+::: {.column width="40%"}
+![](image/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Transformative:
+
+::: {column}
+::: {.column width="60%"}
+-   Political
+
+-   Power & justice oriented
+
+-   Collaborative
+
+-   Change-oriented
+:::
+
+::: {.column width="40%"}
+![](image/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Pragmatic:
+
+::: {column}
+::: {.column width="60%"}
+-   Consequence of actions
+
+-   Problem-centred
+
+-   Pluralistic
+
+-   Real-world practice oriented
+:::
+
+::: {.column width="40%"}
+![](image/framework-research.jpg){fig-align="center"}
+:::
+:::
+
+## Research Designs:
+
+"These are types of inquiry within qualitative, quantitative, and mixed methods approaches that provide **specific direction for procedures** in a research study"
+
+![](image/framework-research.jpg){fig-align="center"}
+
+## Research Designs:
+
+::: panel-tabset
+## Qualitative
+
+-   Narrative research
+
+-   Phenomenology
+
+-   Grounded theory
+
+-   Ethnography
+
+-   Case study
+
+## Quantitative
+
+-   Experimental Designs
+
+-   Non-experimental designs such as surveys
+
+## Mixed Methods
+
+-   Convergent
+
+-   Explanatory sequential
+
+-   Exploratory sequential
+
+-   Transformative, embedded, or multiphase
+:::
+
+## Research Methods
+
+"Involve the forms of data collection, analysis, and interpretation that researchers propose for their studies"
+
+![](image/framework-research.jpg){fig-align="center"}
+
+## Research Methods:
+
+::: panel-tabset
+## Qualitative
+
+-   Emerging methods
+
+-   Open-ended questions
+
+-   Interview data, observation data, document data & audiovisual data
+
+-   Text & image analysis
+
+-   Themes, patterns interpretation
+
+## Quantitative
+
+-   Pre-determined
+
+-   Instrument based questions
+
+-   Performance data, attitude data, observational data, & census data
+
+-   Statistical analysis
+
+-   Statistical interpretation
+
+## Mixed Methods
+
+-   Both predetermined & emerging methods
+
+-   Both open- and closed- ended questions
+
+-   Multiple forms of data drawing on all possibilities
+
+-   Statistical & text analysis
+
+-   Across databases interpretation
+:::
+
+------------------------------------------------------------------------
+
+### Approaches: Worldview + Design + Methods
+
+::: panel-tabset
+## Qualitative
+
+-   Constructivist worldview
+
+-   Ethnographic design
+
+-   Observation of behaviour
+
+## Quantitative
+
+-   Post-positivist worldview
+
+-   Experimental design
+
+-   Measures of attitudes
+
+## Mixed Methods
+
+-   Pragmatic world-view
+
+-   Collection of both qualitative & quantitative data
+:::
+
+# [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
+
+## Research Proposal[^12]
+
+[^12]: @babbiePracticeSocialResearch2020
+
+-   Most organized research begins with a description of **what is planned** in the project: what questions it will raise and how it will answer them.
+
+-   Often such proposals are created for the purpose of **getting the resources** needed to conduct the research envisioned.
+
+## Research Proposal[^13]
+
+[^13]: @sekaranResearchMethodsBusiness2016
+
+-   Before any research study is undertaken, there should be an **agreement** between the person who authorizes the study and the researcher as to:
+
+    -   the problem to be investigated,
+
+    -   the methodology to be used,
+
+    -   the duration of the study, and
+
+    -   its cost.
+
+## Arguments Presented in a Proposal
+
+1.  What do readers need to better understand your topic?
+
+2.  What do readers need to know about your topic?
+
+3.  What do you propose to study?
+
+4.  What is the setting, and who are the people you will study?
+
+5.  What methods do you plan to use to collect data?
+
+6.  How will you analyze the data?
+
+7.  How will you validate your findings?
+
+8.  What ethical issues will your study present?
+
+9.  What do preliminary results show about the practicability and value of the proposed study?
+
+## Format for a Quantitative Proposal
+
+-   Introduction
+
+-   Statement of the problem (issue, existing literature about problem, deficiencies in literature, relevance of study for audiences)
+
+-   Purpose of the study
+
+-   Research questions or hypotheses
+
+-   Theoretical perspective
+
+-   Review of the literature (theory may be included in this section instead of the introduction)
+
+-   Methods
+
+-   Type of research design (e.g., experimental, survey)
+
+-   Population, sample, and participants
+
+-   Data collection instruments, variables, and materials
+
+-   Data analysis procedures
+
+-   Anticipated ethical issues in the study
+
+-   Preliminary studies or pilot tests
+
+-   Appendixes: Instruments, timeline, and proposed budget
+
+------------------------------------------------------------------------
+
+::: {.callout-tip collapse="true"}
+## Designing the Sections of a Proposal[^14]
+
+-   Specify the sections early in the design of a proposal. ... develop an outline.
+
+-   Study previous proposal for the same organisation or supervisor.
+
+-   Attend program or course on proposal development
+
+-   Sit down with your adviser or supervisor, and go over his or her preferred format for a proposal.
+:::
+
+[^14]: @creswellResearchDesignQualitative2018
+
+# [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
+
+## Writing Ideas[^15]
+
+[^15]: @creswellResearchDesignQualitative2018
+
+::: columns
+::: {.column width="50%"}
+<br> <br> "to practice writing rather than simply talk about it"
+:::
+
+::: {.column width="50%"}
+![](image/writingpaper2.jpg){fig-align="center"}
+:::
+:::
+
+## Writing as Thinking
+
+-   Early in the process of research, **write ideas** down rather than talk about them.
+
+-   Working through **several drafts** of a proposal rather than trying to polish the first draft
+
+-   Do not edit your proposal at the early-draft stage.
+
+    -   First develop an outline; it could be a sentence or word outline or a visual map
+    -   Write out a draft and then shift and sort ideas, moving entire paragraphs in the manuscript.
+    -   Finally, edit and polish each sentence.
+
+## The Habit of Writing
+
+-   Establish the discipline of writing in a regular and continuous way on your proposal.
+
+-   Make writing a daily activity, regardless of mood, regardless of readiness to write.
+
+-   Write while you are fresh.
+
+-   Avoid writing in binges (excessive).
+
+-   Write in small, regular amounts
+
+-   Schedule writing tasks
+
+-   Time spent writing + page finished + tasks completed
+
+-   Share your writing with supportive peers.
+
+## Reabability of the Manuscript
+
+-   Use consistent terms in your proposal.
+
+-   Readers need road signs to guide them from one major idea to the next.
+
+-   Coherence in writing means that the ideas tie together and logically flow from one sentence to another and from one paragraph to another.
+
+## Voice, Tense, and "Fat"
+
+-   Use the active voice as much as possible in scholarly writing.
+
+-   Use strong active verbs.
+
+-   Pay close attention to the tense of past studies:
+
+    -   Past simple tense or the present perfect tense for the literature review and procedures based on past events,
+    -   The past simple tense to describe results,
+    -   The present tense to discuss the results and to present the conclusions.
+
+-   Edit and revise drafts to trim the fat.
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 15, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: nonincremental
+::: goal
+1.  Describe an object by its parts and dimensions, without first telling the reader its name.
+
+OR
+
+2.  Write a conversation between two people on any dramatic subject.
+
+OR
+
+3.  Write a set of directions for a complicated task.
+:::
+:::
+
+# [ethics]{style="color:#ffffff"} {.big-text background-image="image/ethics.jpg" background-size="cover"}
+
+## Ethics & Research[^16]
+
+[^16]: @sekaranResearchMethodsBusiness2016
+
+-   "code of conduct or expected societal norms of behaviour while conducting research."
+-   Ethical conduct applies to:
+    -   the organization,
+
+    -   the members that sponsor the research,
+
+    -   the researchers who undertake the research, and
+
+    -   the respondents who provide them with the necessary data.
+
+## Nuremberg War Crime Trials (1946)
+
+![](https://upload.wikimedia.org/wikipedia/en/4/4c/Dachau_cold_water_immersion.jpg){width="400"} ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pressurization_experiment_at_Dachau.jpg/440px-Pressurization_experiment_at_Dachau.jpg){width="300"} ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jadwiga_Dzido_shows_scars_on_leg_from_medical_experiments_to_the_Doctors'_Trial.jpg/440px-Jadwiga_Dzido_shows_scars_on_leg_from_medical_experiments_to_the_Doctors'_Trial.jpg){width="300"}
+
+::: aside
+Image source: <https://en.wikipedia.org/wiki/Nazi_human_experimentation>
+:::
+
+## Tuskegee Syphilis study (1932-1972)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg/540px-Tuskegee-syphilis-study_doctor-injecting-subject.jpg){fig-align="center"}
+
+::: aside
+Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
+:::
+
+## Ethical Issues in Research[^17]
+
+[^17]: @creswellResearchDesignQualitative2018
+
+::: nonincremental
+1.  Prior to conducting the study
+
+2.  Beginning of the study
+
+3.  Collecting data
+
+4.  Analyzing data
+
+5.  Reporting, sharing, and storing data
+:::
+
+## [plagiarism]{style="color:#ffffff"} {.big-text background-image="image/plag.jpg" background-size="cover" style="text-align: center"}
+
+## Plagiarism[^18]
+
+[^18]: @sekaranResearchMethodsBusiness2016
+
+-   "Purposely misrepresenting the work of other authors -- that is, their viewpoints, ideas, models, findings, conclusions, interpretations, and so on."
+
+-   "Plagiarism -- the use of another's original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance."
+
+## Prior to conducting the study
+
+::: panel-tabset
+## Issue Type
+
+-   Examine professional association standards.
+
+-   Seek college/university approval on campus through the board.
+
+-   Gain local permission from site and participants.
+
+-   Select a site without a vested interest in outcome of study.
+
+-   Negotiate authorship for publication
+
+## How to Address
+
+-   Consult the code of ethics for professional association in your area.
+
+-   Submit proposal for board approval.
+
+-   Identify and go through local approvals; find gatekeepers or key personnel to help.
+
+-   Select sites that will not raise power issues with researchers.
+
+-   Give credit for work done on the project; decide on author order in future publication.
+:::
+
+## Beginning the Study
+
+::: panel-tabset
+## Issue Type
+
+-   Identify a research problem that will benefit participants.
+
+-   Disclose purpose of the study.
+
+-   Do not pressure participants into signing consent forms.
+
+-   Respect norms and charters of indigenous societies.
+
+-   Be sensitive to needs of vulnerable populations (eg., children).
+
+## How to Address
+
+-   Conduct a needs assessment or informal conversation with participants about their needs.
+
+-   Contact participants, and inform them of the general purpose of the study.
+
+-   Tell participants that they do not have to sign form.
+
+-   Find out about cultural, religious, gender, and other differences that need to be respected.
+
+-   Obtain appropriate consent (eg., parents, as well as children).
+:::
+
+## Collecting Data
+
+::: panel-tabset
+## Issue Type
+
+-   Respect the site, and disrupt as little as possible.
+
+-   Make certain that all participants receive the same treatment.
+
+-   Avoid deceiving participants.
+
+-   Respect potential power imbalances and exploitation of participants (eg., interviewing, observing).
+
+-   Do not "use" participants by gathering data and leaving site.
+
+-   Avoid collecting harmful information.
+
+## How to Address
+
+-   Build trust, and convey extent of anticipated disruption in gaining access.
+
+-   Put into place wait list provisions for treatment for controls.
+
+-   Discuss purpose of the study and how data will be used.
+
+-   Avoid leading questions. Withhold sharing personal impressions. Avoid disclosing sensitive information. Involve participants as collaborators.
+
+-   Provide rewards for participating.
+
+-   Stick to questions stated in an interview protocol.
+:::
+
+## Analyzing Data
+
+::: panel-tabset
+## Issue Type
+
+-   Avoid siding with participants (going native).
+
+-   Avoid disclosing only positive results.
+
+-   Respect the privacy and anonymity of participants.
+
+## How to Address
+
+-   Report multiple perspectives.
+
+-   Report contrary findings.
+
+-   Assign fictious names or aliases; develop composite profiles of participants.
+:::
+
+## Reporting, Sharing, & Storing Data
+
+::: panel-tabset
+## Issue Type
+
+-   Avoid falsifying authorship, evidence, data, findings, and conclusions.
+
+-   Do not plagiarize.
+
+-   Avoid disclosing information that would harm participants.
+
+-   Communicate in clear, straightforward, appropriate language.
+
+-   Share data with others
+
+-   Keep raw data and other materials (eg., details of procedures, instruments.)
+
+-   Do not duplicate or piecemeal publications.
+
+-   Provide complete proof of compliance with ethical issues and lack of conflict of interest, if requested.
+
+-   State who owns the data from a study.
+
+## How to Address
+
+-   Report honestly.
+
+-   See [APA](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism) guidelines for permissions needed to reprint or adapt work of others.
+
+-   Use composite stories so that individuals cannot be identified.
+
+-   Use unbiased language appropriate for audiences of the research.
+
+-   Provide copies of report to participants and stakeholders. Share results with other researchers. Consider website distribution. Consider publishing in different languages.
+
+-   Store data and materials for 5 years (as per APA).
+
+-   Refrain from using the same material for more than one publication.
+
+-   Disclose funders for research. Disclose who will profit from the research.
+
+-   Give credit for ownership to researcher, participants, and advisers.
+:::
+
+------------------------------------------------------------------------
+
+::: nonincremental
+::: callout-important
+## IMPORTANT TERMS[^19]
+
+-   **Anonymity:** Anonymity is guaranteed in a research project when neither the researchers nor the readers of the findings can link a given response with a given respondent.
+
+-   **Confidentiality:** A research project guarantees confidentiality when the researcher can identify a given person's responses but promises not to reveal them publicly.
+
+-   **Debriefing:** Interviewing subjects to learn about their experience of participation in the project and to inform them of any unrevealed purpose.
+
+-   **Informed Consent:** A norm in which subjects base their voluntary participation in research projects on a full understanding of the possible risks involved.
+:::
+:::
+
+[^19]: @babbiePracticeSocialResearch2020
+
+## :trophy: Hallmarks of Scientific Research[^20]
+
+[^20]: @sekaranResearchMethodsBusiness2016
+
+::: nonincremental
+::: columns
+::: {.column width="50%"}
+-   Purposiveness
+
+-   Rigour
+
+-   Testability
+
+-   Replicability
+:::
+
+::: {.column width="50%"}
+-   Precision and confidence
+
+-   Objectivity
+
+-   Generalizability
+
+-   Parsimony
+:::
+:::
+:::
+
+## Hallmarks of Scientific Research
+
+-   [**Purposiveness:**]{style="color:#00589b"} a definite aim or purpose or goal.
+
+-   [**Rigour:**]{style="color:#00589b"} a good theoretical base and a sound methodological design.
+
+-   [**Testability:**]{style="color:#00589b"} hypotheses should be testable.
+
+-   [**Replicability:**]{style="color:#00589b"} similar findings emerge on the basis of data collected by others employing the same methods.
+
+## Hallmarks of Scientific Research - [Precision and confidence:]{style="color:#00589b"}
+
+-   To design the research in a manner that ensures that our findings are as close to reality as possible.
+
+    -   **Precision:** refers to the closeness of the findings to "reality" based on a sample.
+    -   **Confidence:** refers to the probability that our estimations are correct.
+
+## Hallmarks of Scientific Research - [Objectivity:]{style="color:#00589b"}
+
+-   Conclusions should be based upon the facts of the findings derived from actual data,and not on our own subjective or emotional values.
+
+-   The more objective the interpretation of the data, the more scientific the research investigation becomes.
+
+## Hallmarks of Scientific Research - [Generalizability:]{style="color:#00589b"}
+
+-   Refers to the scope (wider range) of applicability of the research findings in one organizational setting to other settings.
+
+-   Not many research findings can be generalized to all other settings.
+
+-   A more elaborate sampling design, which would doubtless increase the generalizability of the results.
+
+## Hallmarks of Scientific Research - [Parsimony:]{style="color:#00589b"}
+
+-   Simplicity in explaining the phenomena or problems that occur.
+
+-   A good understanding of the problem and the important factors that influence it.
+
+![](image/parsimony.gif){fig-align="center"}
+
+# cook<br>book {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
+
+## :shallow_pan_of_food: Let's cook...
+
+1.  What to cook?
+
+2.  How to cook?
+
+3.  What is the result of your cooking?
+
+4.  How similar or different is your cooked dish?
+
+5.  So what, you cooked this dish (sh!t)?
+
+## :shallow_pan_of_food: Let's cook... Research
+
+1.  What to cook?
+
+    -   **Title + Abstract + Introduction + Literature Review**
+
+2.  How to cook?
+
+    -   **Method**
+
+3.  What is the result of your cooking?
+
+    -   **Results**
+
+4.  How similar or different is your cooked dish?
+
+    -   **Discussion**
+
+5.  So what, you cooked this dish (sh!t)?
+
+    -   **Conclusion + References + Appendix**
+
+## :shallow_pan_of_food: Let's cook... Research
+
+1.  Introduction & Literature Review
+
+2.  Method
+
+3.  Results
+
+4.  Discussion
+
+5.  Conclusion
+
+## Research Paper Structure {background-image="image/hourglass.jpg" background-size="contain" background-position="115%" background-color="black"}
+
+1.  Title (as per APA \< 12 words)
+2.  Abstract (150-250 words)
+3.  Introduction
+4.  Method (Participants + Procedure)
+5.  Results
+6.  Discussion
+7.  References
+8.  Appendix
+
+::: aside
+Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
+:::
+
+## Finish & Publish
+
+::: columns
+::: {.column width="50%"}
+<br> <br> <br> [**Completed Research is the Best Research**]{style="color:#cc0000"}
+:::
+
+::: {.column width="50%"}
+![](image/writingpaper.jpg){fig-align="center"}
+:::
+:::
+
+# [INTRODUCTION]{style="color:#ffffff"} {background-image="image/intro.jpg" background-size="contain" background-position="110%" background-color="black"}
+
+## The Research Topic[^21]
+
+[^21]: @creswellResearchDesignQualitative2018
+
+-   "The topic is the subject or subject matter of a proposed study"
+
+-   "faculty teaching", "organizational creativity", "psychological stress"
+
+-   "The topic becomes the central idea to learn about or to explore"
+
+-   "topic grounds us and provides a sign of what we are studying ... to others the central notion of the study."
+
+## How to write a working Title?
+
+::: callout-tip
+"My study is about ..."
+:::
+
+## (Social) Research Question
+
+"A question about the social world that is answered through the collection and analysis of first-hand, verifiable, empirical data."[^22]
+
+[^22]: @chamblissMakingSenseSocial2018
+
+## "Good" Research Question[^23]
+
+[^23]: @chamblissMakingSenseSocial2018
+
+-   Feasibility given the time and resources available
+
+-   Social importance, and
+
+-   Scientific relevance
+
+## Good Topic or Question
+
+> -   "adds to the pool of research knowledge in the literature available on the topic, ...
+>
+> <!-- -->
+>
+> -   replicate past studies, ...
+>
+> -   lifts up the voices of under-represented groups or individuals, ...
+>
+> -   helps address social justice, or ...
+>
+> -   transforms the ideas and beliefs of the researcher." [@creswellResearchDesignQualitative2018]
+
+## How does this project contribute to the literature?
+
+> "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
+
+## Research Problem/Question
+
+Identification of the broad problem --\> Preliminary research --\> Definition of the research problem
+
+## :mag::eyes: A new perspective or "angle" to the existing literature:[^24]
+
+[^24]: @creswellResearchDesignQualitative2018
+
+-   Studying an unusual location (e.g., rural India).
+
+-   Examining an unusual group of participants (e.g., refugees).
+
+-   Taking a perspective that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
+
+## :mag::eyes: A new perspective or "angle" to the existing literature:[^25]
+
+[^25]: @creswellResearchDesignQualitative2018
+
+-   Providing novel means of collecting data (e.g., collect sounds).
+
+-   Presenting results in unusual ways.
+
+-   Studying a timely topic (e.g., immigration issues)
+
+# [lit review]{style="color:#ffffff"} {.big-text background-image="image/lit.jpg" background-size="cover" style="text-align: center"}
+
+## Why?
+
+![](https://i.imgflip.com/5rdmnz.jpg){fig-align="center" width="375"}
+
+::: aside
+Image source: <https://i.imgflip.com/5rdmnz.jpg>
+:::
+
+## Why?
+
+![](https://i.imgflip.com/5rlujd.jpg){fig-align="center" width="350"}
+
+::: aside
+Image source: <https://i.imgflip.com/5rlujd.jpg>
+:::
+
+## Why?
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+Search for that one reason/sentence while writing. <a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> <a href="https://twitter.com/OpenAcademics?ref_src=twsrc%5Etfw">@OpenAcademics</a> <a href="https://twitter.com/PhDVoice?ref_src=twsrc%5Etfw">@PhDVoice</a> <a href="https://twitter.com/PhD_Genie?ref_src=twsrc%5Etfw">@PhD_Genie</a> <a href="https://t.co/DzaYRY8Acr">pic.twitter.com/DzaYRY8Acr</a>
+
+</p>
+
+--- Dr. Imran Farooq (@drimran_farooq) <a href="https://twitter.com/drimran_farooq/status/1472660535284051972?ref_src=twsrc%5Etfw">December 19, 2021</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+## Why Literature Review?
+
+-   "literature review helps to determine whether the topic is **worth studying**, and it provides insight into ways in which the researcher can **limit the scope** to a needed area of inquiry."
+
+-   "to consider whether the research topic can and should be researched"
+
+## Purpose of Literature Review:
+
+-   It shares with the reader the **results of other studies** that are closely related to the one being undertaken.
+
+-   It relates a study to the larger, **ongoing dialogue** in the literature, filling in gaps and extending prior studies
+
+-   It provides a framework for establishing the importance of the study as well as a benchmark for **comparing the results** with other findings.
+
+## LR Sources
+
+-   Textbooks
+
+-   Journals
+
+-   Theses
+
+-   Conference proceedings
+
+-   Unpublished manuscripts
+
+-   Reports
+
+-   Newspapers
+
+-   The Internet
+
+## Literature Review Process[^26]...
+
+[^26]: @creswellResearchDesignQualitative2018
+
+1.  Begin by identifying key words
+
+2.  Searching the databases like [Google Scholar](https://scholar.google.com/), Web of Science, EBSCO, ProQuest, and JSTOR or you can also use website like [Library Genesis](https://libgen.is/) to download books and papers.
+
+3.  Locate about 50 reports of research in articles or books related to research on your topic.
+
+4.  Skim this initial group of articles or chapters, and collect those that are central to your topic.
+
+## Literature Review Process...
+
+5.  Designing a **literature map** ... a **visual picture of groupings** of the literature on the topic that illustrates how your particular study will add to the existing literature and position your study within the larger body of research.
+
+6.  Begin to draft summaries of the most relevant articles. Include precise references to the literature using an appropriate style guide like APA.
+
+## Literature Review Process
+
+7.  After summarizing the literature, assemble the literature review, structuring it thematically or organizing it by important concepts. This summary should also point toward the methods ... It is at this point as well that you could advance a critique of the past literature and point our deficiencies in it and issues in its methods.
+
+## Literature Review Tools
+
+::: columns
+::: {.column width="50%"}
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+Academic writing is wild bc you'll read four articles just to write one sentence. <br><br>Anyway, here's a thread of resources I've been using to speed through this review I'm working on:
+
+</p>
+
+--- Anicca Harriot:microscope: (@13adh13) <a href="https://twitter.com/13adh13/status/1406664117147123715?ref_src=twsrc%5Etfw">June 20, 2021</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+:::
+
+::: {.column width="50%"}
+1.  [Connected Papers](https://www.connectedpapers.com/)
+
+2.  [Open Knowledge Map](https://openknowledgemaps.org/index)
+
+3.  [Scholarcy](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib?hl=en-GB)
+
+4.  [Speechify](https://speechify.com/)
+
+5.  [Scite](https://scite.ai/)
+:::
+:::
+
+## Connected Papers {background-image="https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577/1500x500" background-size="contain" style="text-align: center"}
+
+## Connected Papers
+
+-   "A visual tool to help researchers and practitioners find and explore academic papers."[^27]
+
+-   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^28]
+
+-   Website: <https://www.connectedpapers.com/>
+
+[^27]: Source <https://twitter.com/ConnectedPapers>
+
+[^28]: Source <https://www.nature.com/articles/d41586-021-02346-4>
+
+## Open Knowledge Maps {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="contain" style="text-align: center"}
+
+## Open Knowledge Maps
+
+-   "We are a **charitable non-profit** organization and we believe that a better way to explore and discover scientific knowledge will benefit us all."
+
+-   "Our Goal is to revolutionize discovery of scientific knowledge. We are building a visual interface that dramatically **increases the visibility** of research findings for science and society alike."
+
+-   Website: <https://openknowledgemaps.org/index>
+
+## Scholarcy {background-image="https://www.scholarcy.com/wp-content/uploads/2018/10/illustration.svg" background-size="70%" style="text-align: center"}
+
+## Scholarcy
+
+-   "The AI-powered article summarizer"
+
+-   "reads your research articles, reports and book chapters in seconds and breaks them down into bite-sized sections"
+
+-   Website: <https://www.scholarcy.com/>
+
+## Speechify {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="right"}
+
+-   "Reading is hard. Listening is easy. Listen to the things you normally read with the #1 text-to-speech AI reader."
+
+-   Website: <https://speechify.com/>
+
+## scite\_ {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="right"}
+
+-   "1.1b citation statements extracted and analyzed from over 32m full-text articles"
+
+-   "helps you see whether publications, research results, and claims have been supported, contrasted, or mentioned by other researchers."
+
+-   Website: <https://www.scite.ai/>
+
+# [theory]{style="color:#ffffff"} {.big-text background-image="image/theory.jpg" background-size="cover"}
+
+## The Use of Theory[^29]
+
+[^29]: @creswellResearchDesignQualitative2018
+
+### In quantitative research,
+
+-   Researchers often test hypotheses stemming from theories.
+
+-   Broader theory guiding the study hypotheses.
+
+## The Use of Theory
+
+### In qualitative research
+
+-   It may generate a theory as the final outcome of a study and place it at the end of a project
+
+-   Sometimes it comes at the beginning and provides a lens that shapes what is looked at and the questions asked
+
+## The Use of Theory
+
+### In mixed methods research
+
+-   Researchers may both test theories and generate them
+
+-   Contain a theoretical framework within which both quantitative and qualitative data are collected
+
+## Quantitative Theory Use
+
+-   Causality: means we would expect variable X to cause variable Y.
+
+-   Does drinking one glass of red wine daily *cause* you have a reduced risk for a heart attack?
+
+    $$Red\;Wine \longrightarrow Heart\;attack$$
+
+    $$X \longrightarrow Y$$
+
+## Variables in Quantitative Research
+
+-   **Variable:** "refers to a characteristic or attribute of an individual or an organization that can be measured or observed and that varies among the people or organization being studied."
+
+-   Gender, age, socio-economic status; attitudes or behaviours such as racism, social control, political power, leadership etc..
+
+## Variables in Quantitative Research
+
+-   **Independent variables:**
+
+    -   Those that influence, or affect outcomes in experimental studies.
+
+    -   They are manipulated in an experiment and thus independent of all other influences.
+
+## Variables in Quantitative Research
+
+-   **Dependent variables:**
+
+    -   Those that depend on the independent variables,
+
+    -   They are the outcomes or results of the influence of the independent variables
+
+## Variables in Quantitative Research
+
+-   Independent variable/Predictor variable
+
+-   Dependent variable / Outcome variable
+
+-   Confounding variable
+
+-   Mediating variable
+
+-   Moderating variable
+
+## Theory in Quantitative Research
+
+-   "A set of interrelated constructs (variables), definitions, and prepositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena" (adapted from Kerlinger 1979)
+
+## Theory in Quantitative Research
+
+-   "Theory helps to explain (predict) phenomena that occur in the world"
+
+-   "Theories develop when researchers test a prediction over and over."
+
+![](image/rainbow.jpg){fig-align="center"}
+
+## Developing a Theory
+
+1.  Investigators combine independent, mediating, and dependent variables into questions.
+
+2.  These questions provide information about the type of relationship (positive, negative, or unknown) and its magnitude (high or low).
+
+3.  Forming this information into a predictive statement (hypothesis)
+
+4.  When researcher test hypotheses over and over in different settings and with different populations, a theory emerges, and someone gives it a name.
+
+5.  Theory develops as an explanation to advance knowledge in particular fields.
+
+## Levels of Theory
+
+-   **Micro-level Theories:** provide explanations limited to small slices of time, space, or number of people; such as Goffman's theory of face work.
+
+-   **Meso-level Theories:** link micro and macro levels; like theories of organizations, social movement, or communities; such as Collin's theory of control in organizations.
+
+-   **Maco-level Theories:** explain larger aggregates, such as social institutions, cultural systems, and whole societies; such as theory of social stratification.
+
+## Placing Theory in a Quant Study
+
+```{r}
+theory_tbl <- data.frame(
+  Placement = c("In the introduction",
+                "In the literature review",
+                "After hypotheses or research questions as a rationale.",
+                "In a separate section"),
+  Advantage = c("As an approach often found in journal articles, it will be familiar to readers. It conveys a deductive approach.",
+                "Theories are found in the literature, and their inclusion in a literature review is a logical extension or part of the literature.",
+                "The theory discussion is a logical extension of hypotheses or research questions because it explains how and why variables are related.",
+                "This approach clearly separates the theory from other components of the research process, and it enables a reader to better identify and to understand the theory base for the study."),
+  Disadvantage = c("It is difficult for a reader to isloate and speparate theory base from other components of the research process (e.g., with the methods).",
+                   "It is difficult for a reader to see the theory in isolation form topics being reviewed in the literature.",
+                   "A write may include a theoretical rationale after hypotheses and questions and leave out an extended discussion about the origin and rationale for the use of the theory.",
+                   "The theory discussion standss in isolation from other components of the research proceess (e.g., the questions of the methods) and, as such, a reader may not easily connect it with other components of the research process.")
+)
+
+library(kableExtra)
+kbl(theory_tbl) |> 
+ kable_styling(bootstrap_options = c("striped", "hover"), font_size = 20)
+  
+```
+
+## Writing Quant Theoretical Perspective
+
+::: callout-tip
+"The theory that I will use is .............. (name the theory). It was developed by ................. (identify the origin, source, or developer of the theory), and it was used to study .............. (identify the topics where one finds the theory being applied). This theory indicates that ................. (identify the propositions or hypotheses in the theory). As applied to my study, this theory hold that I would expect my independent variable(s) .............. (state independent variables) to influence or explain the dependent variable(s) ................ (state dependent variables) because .............. (provide a rationale based on the logic of the theory)."
+:::
+
+## Qualitative Theory Use
+
+## Qual Theoretical Perspectives
+
+-   **Feminist perspectives**: realizing social justice for women.
+
+-   **Racialized discourses:** about people and communities of colour.
+
+-   **Critical theory:** empowering human beings to overcome race, class, gender, and caste.
+
+-   **Queer theory:** focuses on LGBT people.
+
+-   **Disability inquiry:** understanding this population's sociocultural perspectives.
+
+## Inductive Logic in Qual Study
+
+$$Researcher\;poses\;generalizations\;or\;theories\\from\;past\;experience\;and\;literature\\ \uparrow \\ Researcher\;looks\;for\;broad\;patterns,\\\; generalizations,\;or\;theories\;from\;themes\;or\;categories$$
+
+## Research Strategy
+
+-   Deductive Research
+
+-   Inductive Research
+
+------------------------------------------------------------------------
+
+::: callout-important
+## KEY TERMS
+
+-   Causality
+:::
+
+# [METHODS]{style="color:#ffffff"} {#sec-method background-image="image/method1.jpg" background-size="contain" background-position="right" background-color="black"}
+
+# [DATA<br>ANALYSIS]{style="color:#ffffff"} {#sec-analysis background-image="image/analysis.jpg" background-size="contain" background-position="right" background-color="black"}
+
+# [FINDINGS]{style="color:#ffffff"} {#sec-finding background-image="image/find.jpg" background-size="contain" background-position="right" background-color="black"}
+
+# [CONCLUSION]{style="color:#ffffff"} {#sec-conclusion background-image="image/conclusion.jpg" background-size="contain" background-position="right" background-color="black"}
+
+## Image Sources
+
+-   Title slide image is from am Irish artist [Miriam Sweeney](https://twitter.com/womensart1/status/1587493110405365766)
+-   [Introduction](#sec-intro) slide image is from [Mae Mu](https://unsplash.com/photos/Pvclb-iHHYY)
+-   [Methods](#sec-method) slide image is from [Mae Mu](https://unsplash.com/photos/rgRbqFweGF0)
+-   [Data analysis](#sec-analysis) slide image is from [Sebastian Coman](https://unsplash.com/photos/eBmyH7oO5wY)
+-   [Findings](#sec-finding) slide image is from [Josepth Gonzalez](https://unsplash.com/photos/fdlZBWIP0aM)
+-   [Conclusion](#sec-conclusion) slide image is from [Andy Holmes](https://unsplash.com/photos/mTqGgeYkfaY)
+
+## References

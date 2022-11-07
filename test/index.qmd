@@ -1,0 +1,14 @@
+---
+title: "text example"
+author: "ajay"
+format: revealjs
+editor: visual
+---
+
+## My Website
+
+Please use this [link](https://koliajay.netlify.app/)
+
+## FA Icon
+
+{{< fa globe >}} My website
