@@ -6,8 +6,8 @@ format:
     smooth-scroll: true
     theme: style.scss
     incremental: true
-    #slide-number: c/t
-#logo: "image/logo.png"
+    slide-number: c/t
+logo: "image/logo.png"
 transition: fade
 collapse: true
 code-link: true
@@ -20,7 +20,7 @@ title-slide-attributes:
   data-background-position: "right"
   data-background-opacity: "0.3"
 bibliography: references.bib
-#controls: true
+controls: true
 image: "featured.png"
 revealjs-plugins:
   - pointer
