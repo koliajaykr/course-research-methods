@@ -46,7 +46,7 @@ countdown::countdown(minutes = 05, right = "20%", top = "-4%", play_sound = TRUE
 
 {style="color:#ffffff"}
 
-[red words]{style="color:#cc0000"}
+[red words]{style="color:#A51C30"}
 
 ## Size of a larger chunk
 

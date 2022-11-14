@@ -65,7 +65,7 @@ Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< 
 ::: callout-note
 ## During the Sessions
 
-:stars: These slide's online link is <https://research-methods.netlify.app/> 
+:stars: These slide's online link is <https://research-methods.netlify.app/>
 
 :brain: Your Turn
 
@@ -386,9 +386,9 @@ Which research approach will you use to study the consumer satisfaction level fo
 ![Study 3 Royal Enfield Bike](https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/colors/studio-shots/dual-channel/dark-stealth-black/01-dark-stealth-black.png){width="450"}
 :::
 
-# [Three Components]{style="color:#cc0000"} Involved in Research Approach which form A [Framework]{style="color:#cc0000"} for Research
-
 # [frame<br>work]{style="color:#ffffff"} {#sec-cookbook .big-text background-image="image/framework.jpg" background-size="cover" style="text-align: center"}
+
+# [Three Components]{style="color:#cc0000"} Involved in Research Approach which form a [Framework]{style="color:#cc0000"} for Research
 
 ## A Framework for Research
 
@@ -488,11 +488,11 @@ is the :spider_web: **interconnection** of:
 
 ## Research Designs:
 
-"These are types of inquiry within qualitative, quantitative, and mixed methods approaches that provide **specific direction for procedures** in a research study"
+"These are **types of inquiry** within qualitative, quantitative, and mixed methods approaches that provide **specific direction for procedures** in a research study"
 
 ![](image/framework-research.jpg){fig-align="center"}
 
-## Research Designs:
+## Research Designs: ["types of inquiry"]{style="color:#A51C30"}
 
 ::: panel-tabset
 ## Qualitative
@@ -572,7 +572,7 @@ is the :spider_web: **interconnection** of:
 
 ------------------------------------------------------------------------
 
-### Approaches: Worldview + Design + Methods
+### Approaches = [Worldview + Design + Methods]{style="color:#A51C30"}
 
 ::: panel-tabset
 ## Qualitative
@@ -597,6 +597,39 @@ is the :spider_web: **interconnection** of:
 
 -   Collection of both qualitative & quantitative data
 :::
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 05, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: goal
+Take a topic that you would like to study, and using the combinations of worldviews, designs, and research methods, discuss a project that brings together a worldview, designs, and methods. Identify whether this would be quantitative, qualitative, or mixed methods research. 
+:::
+
+
+# [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
+
+## Writing Ideas[^15]
+
+[^15]: @creswellResearchDesignQualitative2018
+
+::: columns
+::: {.column width="50%"}
+<br> <br> "to practice writing rather than simply talk about it"
+:::
+
+::: {.column width="50%"}
+![](image/writingpaper2.jpg){fig-align="center"}
+:::
+:::
+
+## :thought_balloon: Writing as Thinking
+
+-   Early in the process of research, **write ideas** down rather than talk about them.
+
+-   Working through **several drafts of a proposal** rather than trying to polish the first draft
 
 # [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
 
@@ -675,7 +708,7 @@ is the :spider_web: **interconnection** of:
 ------------------------------------------------------------------------
 
 ::: {.callout-tip collapse="true"}
-## Designing the Sections of a Proposal[^14]
+## Tips: Designing the Sections of a Proposal[^14]
 
 -   Specify the sections early in the design of a proposal. ... develop an outline.
 
@@ -688,43 +721,42 @@ is the :spider_web: **interconnection** of:
 
 [^14]: @creswellResearchDesignQualitative2018
 
-# [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
 
-## Writing Ideas[^15]
+## :thought_balloon: Writing as Thinking: Zero Draft
 
-[^15]: @creswellResearchDesignQualitative2018
+<blockquote class="twitter-tweet">
 
-::: columns
-::: {.column width="50%"}
-<br> <br> "to practice writing rather than simply talk about it"
-:::
+<p lang="en" dir="ltr">
 
-::: {.column width="50%"}
-![](image/writingpaper2.jpg){fig-align="center"}
-:::
-:::
+Do this exercise once a day for a week.<br><br>At the end of the week, you'll have written thousands of words.<br><br>Out of these thousands of words, you'll have a few hundred (or even more) *useful* words.<br><br>Write them separately. Or, you can cut and paste them in a new document.
 
-## Writing as Thinking
+</p>
 
--   Early in the process of research, **write ideas** down rather than talk about them.
+--- Mushtaq Bilal, PhD (@MushtaqBilalPhD) <a href="https://twitter.com/MushtaqBilalPhD/status/1590988271131430913?ref_src=twsrc%5Etfw">November 11, 2022</a>
 
--   Working through **several drafts** of a proposal rather than trying to polish the first draft
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+## :thought_balloon: Writing as Thinking
 
 -   Do not edit your proposal at the early-draft stage.
 
-    -   First develop an outline; it could be a sentence or word outline or a visual map
-    -   Write out a draft and then shift and sort ideas, moving entire paragraphs in the manuscript.
-    -   Finally, edit and polish each sentence.
+    -   First develop an outline; it could be a sentence or word outline or a **visual map**
+    -   Write out a **draft** and then shift and sort ideas, moving entire paragraphs in the manuscript.
+    -   Finally, **edit and polish** each sentence.
 
-## The Habit of Writing
+## :memo: The Habit of Writing
 
--   Establish the discipline of writing in a regular and continuous way on your proposal.
+-   Establish the **discipline** of writing in a **regular and continuous** way on your proposal.
 
--   Make writing a daily activity, regardless of mood, regardless of readiness to write.
+-   Make writing a daily activity, regardless of **mood**, regardless of readiness to write.
 
--   Write while you are fresh.
+-   Write while you are **fresh.**
 
--   Avoid writing in binges (excessive).
+-   Avoid writing in **binges** (excessive).
 
 -   Write in small, regular amounts
 
@@ -732,29 +764,114 @@ is the :spider_web: **interconnection** of:
 
 -   Time spent writing + page finished + tasks completed
 
--   Share your writing with supportive peers.
+-   Share your writing with **supportive peers.**
 
-## Reabability of the Manuscript
+## :vomiting_face: Reabability of the Manuscript/Draft
 
--   Use consistent terms in your proposal.
+-   Use **consistent terms** in your proposal.
 
--   Readers need road signs to guide them from one major idea to the next.
+-   Readers need **road signs** to guide them from one major idea to the next.
 
--   Coherence in writing means that the ideas tie together and logically flow from one sentence to another and from one paragraph to another.
+-   Coherence in writing means that the ideas tie together and **logically flow** from one sentence to another and from one paragraph to another.
 
 ## Voice, Tense, and "Fat"
 
--   Use the active voice as much as possible in scholarly writing.
+-   Use the **active voice** as much as possible in scholarly writing.
 
 -   Use strong active verbs.
 
 -   Pay close attention to the tense of past studies:
 
-    -   Past simple tense or the present perfect tense for the literature review and procedures based on past events,
-    -   The past simple tense to describe results,
-    -   The present tense to discuss the results and to present the conclusions.
+    -   Past simple tense or the present perfect tense for the **literature review and procedures** based on past events,
+    -   The past simple tense to **describe results**,
+    -   The present tense to **discuss the result**s and to present the **conclusions**.
 
--   Edit and revise drafts to trim the fat.
+-   Edit and revise drafts to **trim the fat**.
+
+------------------------------------------------------------------------
+
+##  {background-image="https://images.unsplash.com/photo-1552385430-53e6f2028760?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" background-size="contain" background-position="right"}
+
+> "If I have seen further, <br>it is by standing on the <br>shoulders of giants." <br>- Newton (1675)
+
+-   Find an argument/angle
+-   So what?
+-   Advance the conversation
+
+## Citation
+
+-   "Citing sources allows scholars to **give credit** to other scholars for their **hard work and their ideas.**"
+
+-   "By citing sources, scholars provide **a roadmap for readers** who are interested in learning more about a topic and joining the **ongoing conversation** about that topic."
+
+::: aside
+Source: [Harvard University](https://usingsources.fas.harvard.edu/avoiding-plagiarism)
+:::
+
+## [References/Bibliography]{style="color:#A51C30"}
+
+![](image/ref1.png)
+
+## [References/Bibliography]{style="color:#A51C30"}
+
+![](image/ref2.png)
+
+## :rotating_light: Plagiarism[^16]
+
+[^16]: @sekaranResearchMethodsBusiness2016
+
+-   "Purposely **misrepresenting the work of other authors** -- that is, their viewpoints, ideas, models, findings, conclusions, interpretations, and so on."
+
+-   "Plagiarism -- the use of another's original words, arguments, or ideas as though **they were your own**, even if this is done in good faith, out of carelessness, or out of ignorance."
+
+## :relieved: How to Avoid Plagiarism
+
+-   Keep **track** of your sources; print electronic sources
+
+    -   complete URL & date
+    -   check URL before submission
+
+-   Keep sources in **correct context**
+
+    -   unbiased
+
+-   Don't cut and paste: File and label your sources
+
+    -   separate file with date (2021-12-29-belk.doc)
+
+::: aside
+Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
+:::
+
+## :relieved: How to Avoid Plagiarism
+
+-   Keep your **own writing** and your sources separate
+
+-   Keep your **notes** and your draft separate
+
+-   **Paraphrase** carefully in your notes; acknowledge your sources explicitly when paraphrasing
+
+    -   separate notes from draft
+
+-   Don't save your citations **for later**
+
+-   Always use **quotation marks** for directly quoted material, even for short phrases and key terms.
+
+::: aside
+Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+### <br> <br> <br> <br>[Completed Research is the Best Research]{style="color:#A51C30"}
+:::
+
+::: {.column width="50%"}
+<br><br> ![](image/writingpaper.jpg){fig-align="center"}
+:::
+:::
 
 ## :brain: Your Turn
 
@@ -776,11 +893,11 @@ OR
 :::
 :::
 
-# [ethics]{style="color:#ffffff"} {.big-text background-image="image/ethics.jpg" background-size="cover"}
+# [ethics]{style="color:#ffffff"} {.big-text background-image="image/ethics.jpg" background-size="contain" background-color="black"}
 
-## Ethics & Research[^16]
+## Ethics & Research[^17]
 
-[^16]: @sekaranResearchMethodsBusiness2016
+[^17]: @sekaranResearchMethodsBusiness2016
 
 -   "code of conduct or expected societal norms of behaviour while conducting research."
 -   Ethical conduct applies to:
@@ -792,7 +909,7 @@ OR
 
     -   the respondents who provide them with the necessary data.
 
-## Nuremberg War Crime Trials (1946)
+## [Nuremberg War Crime Trials]{style="color:#cc0000"} (1946)
 
 ![](https://upload.wikimedia.org/wikipedia/en/4/4c/Dachau_cold_water_immersion.jpg){width="400"} ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pressurization_experiment_at_Dachau.jpg/440px-Pressurization_experiment_at_Dachau.jpg){width="300"} ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jadwiga_Dzido_shows_scars_on_leg_from_medical_experiments_to_the_Doctors'_Trial.jpg/440px-Jadwiga_Dzido_shows_scars_on_leg_from_medical_experiments_to_the_Doctors'_Trial.jpg){width="300"}
 
@@ -800,17 +917,17 @@ OR
 Image source: <https://en.wikipedia.org/wiki/Nazi_human_experimentation>
 :::
 
-## Tuskegee Syphilis study (1932-1972)
+## [Tuskegee Syphilis study]{style="color:#cc0000"} (1932-1972)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg/540px-Tuskegee-syphilis-study_doctor-injecting-subject.jpg){fig-align="center"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tuskegee-syphilis-study_doctor-injecting-subject.jpg/540px-Tuskegee-syphilis-study_doctor-injecting-subject.jpg){fig-align="center" width="650"}
 
 ::: aside
 Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 :::
 
-## Ethical Issues in Research[^17]
+## Ethical Issues in Research[^18]
 
-[^17]: @creswellResearchDesignQualitative2018
+[^18]: @creswellResearchDesignQualitative2018
 
 ::: nonincremental
 1.  Prior to conducting the study
@@ -823,16 +940,6 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 5.  Reporting, sharing, and storing data
 :::
-
-## [plagiarism]{style="color:#ffffff"} {.big-text background-image="image/plag.jpg" background-size="cover" style="text-align: center"}
-
-## Plagiarism[^18]
-
-[^18]: @sekaranResearchMethodsBusiness2016
-
--   "Purposely misrepresenting the work of other authors -- that is, their viewpoints, ideas, models, findings, conclusions, interpretations, and so on."
-
--   "Plagiarism -- the use of another's original words, arguments, or ideas as though they were your own, even if this is done in good faith, out of carelessness, or out of ignorance."
 
 ## Prior to conducting the study
 
@@ -1071,7 +1178,7 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 ![](image/parsimony.gif){fig-align="center"}
 
-# cook<br>book {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
+# [cook<br>book]{style="color:#A51C30"} {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
 
 ## :shallow_pan_of_food: Let's cook...
 
@@ -1089,38 +1196,39 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 1.  What to cook?
 
-    -   **Title + Abstract + Introduction + Literature Review**
+    -   [**Title + Abstract + Introduction + Literature Review**]{style="color:#A51C30"}
 
 2.  How to cook?
 
-    -   **Method**
+    -   [**Method**]{style="color:#A51C30"}
 
 3.  What is the result of your cooking?
 
-    -   **Results**
+    -   [**Results**]{style="color:#A51C30"}
 
 4.  How similar or different is your cooked dish?
 
-    -   **Discussion**
+    -   [**Discussion**]{style="color:#A51C30"}
 
 5.  So what, you cooked this dish (sh!t)?
 
-    -   **Conclusion + References + Appendix**
+    -   [**Conclusion + References + Appendix**]{style="color:#A51C30"}
 
-## :shallow_pan_of_food: Let's cook... Research
+## Research Paper Hourglass Structure
 
-1.  Introduction & Literature Review
+::: columns
+::: {.column width="65%"}
+![](image/str.jpg)
+:::
 
-2.  Method
+::: {.column width="35%"}
+![](image/hourglass.jpg)
+:::
+:::
 
-3.  Results
+## :shallow_pan_of_food: Research Report Structure {background-color="#A51C30"}
 
-4.  Discussion
-
-5.  Conclusion
-
-## Research Paper Structure {background-image="image/hourglass.jpg" background-size="contain" background-position="115%" background-color="black"}
-
+::: incremental
 1.  Title (as per APA \< 12 words)
 2.  Abstract (150-250 words)
 3.  Introduction
@@ -1133,32 +1241,39 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 ::: aside
 Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 :::
-
-## Finish & Publish
-
-::: columns
-::: {.column width="50%"}
-<br> <br> <br> [**Completed Research is the Best Research**]{style="color:#cc0000"}
-:::
-
-::: {.column width="50%"}
-![](image/writingpaper.jpg){fig-align="center"}
-:::
 :::
 
 # [INTRODUCTION]{style="color:#ffffff"} {background-image="image/intro.jpg" background-size="contain" background-position="110%" background-color="black"}
 
-## The Research Topic[^21]
+## :plate_with_cutlery: A Good Introduction Addresses[^21]:
 
 [^21]: @creswellResearchDesignQualitative2018
 
--   "The topic is the subject or subject matter of a proposed study"
+1. Establishing the problem leading to the study,
 
--   "faculty teaching", "organizational creativity", "psychological stress"
+1. Reviewing the literature about the problem,
 
--   "The topic becomes the central idea to learn about or to explore"
+1. Identifying deficiencies in the literature about the problem,
 
--   "topic grounds us and provides a sign of what we are studying ... to others the central notion of the study."
+1. Targeting an audience and noting the **significance of the problem** for this audience, and
+
+1. Identifying the purpose of the proposed study.
+
+## Research Problem/Question
+
+[Identification of the Broad Problem]{style="color:#A51C30"}<br>$\downarrow$ <br>[Preliminary Research]{style="color:#A51C30"}<br>$\downarrow$<br>[Definition of the Research Problem]{style="color:#A51C30"}
+
+## The Research Topic[^22]
+
+[^22]: @creswellResearchDesignQualitative2018
+
+-   "The topic is the subject or **subject matter** of a proposed study"
+
+-   *"casteism", "organizational creativity", "psychological stress", "consumer buying behavior", "exam anxiety"*
+
+-   "The topic becomes the **central idea** to learn about or to explore"
+
+-   "topic **grounds us** and provides a sign of what we are studying."
 
 ## How to write a working Title?
 
@@ -1168,13 +1283,13 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 ## (Social) Research Question
 
-"A question about the social world that is answered through the collection and analysis of first-hand, verifiable, empirical data."[^22]
-
-[^22]: @chamblissMakingSenseSocial2018
-
-## "Good" Research Question[^23]
+"A question about the social world that is answered through the collection and analysis of first-hand, verifiable, empirical data."[^23]
 
 [^23]: @chamblissMakingSenseSocial2018
+
+## "Good" Research Question[^24]
+
+[^24]: @chamblissMakingSenseSocial2018
 
 -   Feasibility given the time and resources available
 
@@ -1184,41 +1299,35 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 ## Good Topic or Question
 
-> -   "adds to the pool of research knowledge in the literature available on the topic, ...
->
-> <!-- -->
->
-> -   replicate past studies, ...
->
-> -   lifts up the voices of under-represented groups or individuals, ...
->
-> -   helps address social justice, or ...
->
-> -   transforms the ideas and beliefs of the researcher." [@creswellResearchDesignQualitative2018]
+-   "**adds** to the pool of research knowledge in the literature available on the topic, ...
+
+-   **replicate** past studies, ...
+
+-   lifts up the voices of **under-represented groups** or individuals, ...
+
+-   helps address **social justice**, or ...
+
+-   **transforms** the ideas and beliefs of the researcher." [@creswellResearchDesignQualitative2018]
 
 ## How does this project contribute to the literature?
 
 > "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
 
-## Research Problem/Question
-
-Identification of the broad problem --\> Preliminary research --\> Definition of the research problem
-
-## :mag::eyes: A new perspective or "angle" to the existing literature:[^24]
-
-[^24]: @creswellResearchDesignQualitative2018
-
--   Studying an unusual location (e.g., rural India).
-
--   Examining an unusual group of participants (e.g., refugees).
-
--   Taking a perspective that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
-
 ## :mag::eyes: A new perspective or "angle" to the existing literature:[^25]
 
 [^25]: @creswellResearchDesignQualitative2018
 
--   Providing novel means of collecting data (e.g., collect sounds).
+-   Studying an **unusual location** (e.g., rural India).
+
+-   Examining an **unusual group** of participants (e.g., refugees).
+
+-   Taking a **perspective** that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
+
+## :mag::eyes: A new perspective or "angle" to the existing literature:[^26]
+
+[^26]: @creswellResearchDesignQualitative2018
+
+-   Providing **novel means** of collecting data (e.g., collect sounds).
 
 -   Presenting results in unusual ways.
 
@@ -1226,21 +1335,41 @@ Identification of the broad problem --\> Preliminary research --\> Definition of
 
 # [lit review]{style="color:#ffffff"} {.big-text background-image="image/lit.jpg" background-size="cover" style="text-align: center"}
 
-## Why?
+---
 
-![](https://i.imgflip.com/5rdmnz.jpg){fig-align="center" width="375"}
+![](https://i.imgflip.com/5rlujd.jpg){fig-aligh="center"}
 
-::: aside
-Image source: <https://i.imgflip.com/5rdmnz.jpg>
-:::
+## :books: Why Literature Review?
 
-## Why?
+-   "literature review helps to determine whether the topic is **worth studying**, and it provides insight into ways in which the researcher can **limit the scope** to a needed area of inquiry."
 
-![](https://i.imgflip.com/5rlujd.jpg){fig-align="center" width="350"}
+-   "to consider whether the research topic can and should be researched"
 
-::: aside
-Image source: <https://i.imgflip.com/5rlujd.jpg>
-:::
+## :books: Purpose of Literature Review:
+
+-   It shares with the reader the **results of other studies** that are closely related to the one being undertaken.
+
+-   It relates a study to the larger, **ongoing dialogue** in the literature, filling in gaps and extending prior studies
+
+-   It provides a framework for establishing the importance of the study as well as a benchmark for **comparing the results** with other findings.
+
+## :books: LR Sources {background-image="image/litref.png" background-size="contain" background-position="75%"}
+
+-   Textbooks
+
+-   Journals
+
+-   Theses
+
+-   Conference proceedings
+
+-   Unpublished manuscripts
+
+-   Reports
+
+-   Newspapers
+
+-   The Internet
 
 ## Why?
 
@@ -1259,61 +1388,40 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 ```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
-## Why Literature Review?
 
--   "literature review helps to determine whether the topic is **worth studying**, and it provides insight into ways in which the researcher can **limit the scope** to a needed area of inquiry."
+## :sob: Literature Review Process[^27]...
 
--   "to consider whether the research topic can and should be researched"
+[^27]: @creswellResearchDesignQualitative2018
 
-## Purpose of Literature Review:
+1.  Begin by identifying **key words.**
 
--   It shares with the reader the **results of other studies** that are closely related to the one being undertaken.
+2.  Searching the **databases** like [Google Scholar](https://scholar.google.com/), Web of Science, EBSCO, ProQuest, and JSTOR or you can also use website like [Library Genesis](https://libgen.is/) to download books and papers.
 
--   It relates a study to the larger, **ongoing dialogue** in the literature, filling in gaps and extending prior studies
+3.  Locate about 50 reports of research in **articles or books** related to research on your topic.
 
--   It provides a framework for establishing the importance of the study as well as a benchmark for **comparing the results** with other findings.
+4.  Skim this initial group of articles or chapters, and collect those that are **central to your topic**.
 
-## LR Sources
-
--   Textbooks
-
--   Journals
-
--   Theses
-
--   Conference proceedings
-
--   Unpublished manuscripts
-
--   Reports
-
--   Newspapers
-
--   The Internet
-
-## Literature Review Process[^26]...
-
-[^26]: @creswellResearchDesignQualitative2018
-
-1.  Begin by identifying key words
-
-2.  Searching the databases like [Google Scholar](https://scholar.google.com/), Web of Science, EBSCO, ProQuest, and JSTOR or you can also use website like [Library Genesis](https://libgen.is/) to download books and papers.
-
-3.  Locate about 50 reports of research in articles or books related to research on your topic.
-
-4.  Skim this initial group of articles or chapters, and collect those that are central to your topic.
-
-## Literature Review Process...
+## :sob: Literature Review Process...
 
 5.  Designing a **literature map** ... a **visual picture of groupings** of the literature on the topic that illustrates how your particular study will add to the existing literature and position your study within the larger body of research.
 
-6.  Begin to draft summaries of the most relevant articles. Include precise references to the literature using an appropriate style guide like APA.
+6.  Begin to **draft summaries** of the most relevant articles. Include precise references to the literature using an appropriate style guide like [APA](https://apastyle.apa.org/style-grammar-guidelines).
 
-## Literature Review Process
+## :sob: Literature Review Process
 
-7.  After summarizing the literature, assemble the literature review, structuring it thematically or organizing it by important concepts. This summary should also point toward the methods ... It is at this point as well that you could advance a critique of the past literature and point our deficiencies in it and issues in its methods.
+7.  After **summarizing** the literature,
 
-## Literature Review Tools
+-   assemble the literature review, structuring it **thematically** or organizing it by **important concepts**.
+
+-   This summary should also point toward the **methods** ...
+
+-   It is at this point as well that you could advance a **critique of the past** literature and point our **deficiencies** in it and issues in its methods.
+
+---
+
+![](https://i.imgflip.com/5rdmnz.jpg){fig-align="center"}
+
+## :hammer_and_wrench: Literature Review Tools
 
 ::: columns
 ::: {.column width="50%"}
@@ -1349,21 +1457,21 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 ## Connected Papers {background-image="https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577/1500x500" background-size="contain" style="text-align: center"}
 
-## Connected Papers
+## [Connected Papers]{style="color:#A51C30"}
 
--   "A visual tool to help researchers and practitioners find and explore academic papers."[^27]
+-   "A visual tool to help researchers and practitioners find and explore academic papers."[^28]
 
--   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^28]
+-   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^29]
 
 -   Website: <https://www.connectedpapers.com/>
 
-[^27]: Source <https://twitter.com/ConnectedPapers>
+[^28]: Source <https://twitter.com/ConnectedPapers>
 
-[^28]: Source <https://www.nature.com/articles/d41586-021-02346-4>
+[^29]: Source <https://www.nature.com/articles/d41586-021-02346-4>
 
 ## Open Knowledge Maps {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="contain" style="text-align: center"}
 
-## Open Knowledge Maps
+## [Open Knowledge Maps]{style="color:#A51C30"}
 
 -   "We are a **charitable non-profit** organization and we believe that a better way to explore and discover scientific knowledge will benefit us all."
 
@@ -1373,7 +1481,7 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 ## Scholarcy {background-image="https://www.scholarcy.com/wp-content/uploads/2018/10/illustration.svg" background-size="70%" style="text-align: center"}
 
-## Scholarcy
+## [Scholarcy]{style="color:#A51C30"}
 
 -   "The AI-powered article summarizer"
 
@@ -1397,9 +1505,39 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 # [theory]{style="color:#ffffff"} {.big-text background-image="image/theory.jpg" background-size="cover"}
 
-## The Use of Theory[^29]
+## Theory
 
-[^29]: @creswellResearchDesignQualitative2018
+-   "**explain**s a certain phenomenon, ...
+
+-   and the idea is that this explanation **will hold** in a wide range of settings."[^30]
+
+-   "theory is any concept, instrument, model, or framework that helps them to think about or solve a problem, to describe a phenomenon, or to better understand a topic of interest"
+
+[^30]: @sekaranResearchMethodsBusiness2016
+
+## *Expectancy Theory of Motivation*
+
+By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectancy-theory) (in 1964): "people will choose how to behave depending on the outcome they expect as a result of their behavior."
+
+-   [**Expectancy Theory:**]{style="color:#A51C30"}[^31]
+
+    -   "people decide what to do based on what they expect the outcome to be"
+
+    -   "individuals are motivated to perform if they know that their extra performance is recognized and rewarded"
+
+[^31]: @sekaranResearchMethodsBusiness2016
+
+## The Role of Theory
+
+-   Some research is aimed at building theory ...
+
+-   other to test a theory ...
+
+-   to describe what is going on, using an existing framework, instrument, or model.
+
+## The Use of Theory[^32]
+
+[^32]: @creswellResearchDesignQualitative2018
 
 ### In quantitative research,
 
