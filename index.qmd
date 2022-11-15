@@ -1,6 +1,8 @@
 ---
 title: "RESEARCH METHODS"
 author: "Ajay Koli"
+date: ""
+date-format: medium
 format: 
   revealjs:
     smooth-scroll: true
@@ -386,9 +388,7 @@ Which research approach will you use to study the consumer satisfaction level fo
 ![Study 3 Royal Enfield Bike](https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/colors/studio-shots/dual-channel/dark-stealth-black/01-dark-stealth-black.png){width="450"}
 :::
 
-# [frame<br>work]{style="color:#ffffff"} {#sec-cookbook .big-text background-image="image/framework.jpg" background-size="cover" style="text-align: center"}
-
-# [Three Components]{style="color:#cc0000"} Involved in Research Approach which form a [Framework]{style="color:#cc0000"} for Research
+# Research<br>Framework {#sec-cookbook background-image="image/framework.jpg" background-size="cover" style="text-align: center"}
 
 ## A Framework for Research
 
@@ -454,13 +454,13 @@ is the :spider_web: **interconnection** of:
 
 ::: {column}
 ::: {.column width="60%"}
--   Political
+-   During the 1980s & 1990s for marginalized individuals in society
 
--   Power & justice oriented
+-   Issues of power and social justice, discrimination, and oppression.
 
--   Collaborative
+-   Includes critical theorists; Marxists; feminists; racial and ethnic minorities; person with disabilities; indigenous and post colonial peoples; and members of LGBTQ.
 
--   Change-oriented
+-   Research contain action and change-oriented
 :::
 
 ::: {.column width="40%"}
@@ -472,9 +472,9 @@ is the :spider_web: **interconnection** of:
 
 ::: {column}
 ::: {.column width="60%"}
--   Consequence of actions
+-   It arises out of actions, situations, and consequence of actions
 
--   Problem-centred
+-   Problem-centred instead of methods
 
 -   Pluralistic
 
@@ -497,31 +497,37 @@ is the :spider_web: **interconnection** of:
 ::: panel-tabset
 ## Qualitative
 
--   Narrative research
+Visible during the 1990s and in the 21st century.
 
--   Phenomenology
+-   **Narrative research** from the humanities ... one or more individuals to provide stories about their lives.
 
--   Grounded theory
+-   **Phenomenology** from philosophy and psychology ... description culminates in the essence of the experiences for several individuals who have all experienced the phenomenon.
 
--   Ethnography
+-   **Grounded theory** from sociology in which the researcher derives a general, abstract theory of a process, action, or interaction grounded in the view of participants.
 
--   Case study
+-   **Ethnography** from anthropology and sociology in which the research studies the shared patterns of behaviors, languages, and actions of an intact cultural group in a natural setting.
+
+-   **Case study** researcher develops an in-depth analysis of a case ... collect detailed information using a variety of data collection procedures
 
 ## Quantitative
 
--   Experimental Designs
+During the late 19th century and throughout the 20th century.
 
--   Non-experimental designs such as surveys
+-   **Experimental Designs** seeks to determine if a specific treatment influences an outcome.
+
+-   **Survey research** provides a quantitative or numeric description of trends, attitudes, or opinions of a population by studying a **sample** of that **population**.
 
 ## Mixed Methods
 
--   Convergent
+Began in late 1980s
 
--   Explanatory sequential
+-   **Convergent mixed methods** collects both forms of data at the same time and integrates the information in the results.
 
--   Exploratory sequential
+-   **Explanatory sequential** quantitative studies followed by the qualitative study, the qualitative study was conducted to explain further/better the results of quantitative study.
 
--   Transformative, embedded, or multiphase
+-   **Exploratory sequential** qualitative study was done first then this study's results are used to do the quantitative study.
+
+-   Transformative, embedded, or multi-phase
 :::
 
 ## Research Methods
@@ -547,7 +553,7 @@ is the :spider_web: **interconnection** of:
 
 ## Quantitative
 
--   Pre-determined
+-   Pre-determined methods
 
 -   Instrument based questions
 
@@ -581,7 +587,7 @@ is the :spider_web: **interconnection** of:
 
 -   Ethnographic design
 
--   Observation of behaviour
+-   Observation of behavior
 
 ## Quantitative
 
@@ -605,295 +611,12 @@ countdown::countdown(minutes = 05, right = "-1%", top = "-4%", play_sound = TRUE
 ```
 
 ::: goal
-Take a topic that you would like to study, and using the combinations of worldviews, designs, and research methods, discuss a project that brings together a worldview, designs, and methods. Identify whether this would be quantitative, qualitative, or mixed methods research. 
+Take a topic that you would like to study, and using the combinations of worldviews, designs, and research methods, discuss a project that brings together a worldview, designs, and methods. Identify whether this would be quantitative, qualitative, or mixed methods research.
 :::
 
+# [ethics]{style="color:#ffffff"} {.big-text background-image="image/ethics.jpg" background-size="coveer"}
 
-# [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
-
-## Writing Ideas[^15]
-
-[^15]: @creswellResearchDesignQualitative2018
-
-::: columns
-::: {.column width="50%"}
-<br> <br> "to practice writing rather than simply talk about it"
-:::
-
-::: {.column width="50%"}
-![](image/writingpaper2.jpg){fig-align="center"}
-:::
-:::
-
-## :thought_balloon: Writing as Thinking
-
--   Early in the process of research, **write ideas** down rather than talk about them.
-
--   Working through **several drafts of a proposal** rather than trying to polish the first draft
-
-# [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
-
-## Research Proposal[^12]
-
-[^12]: @babbiePracticeSocialResearch2020
-
--   Most organized research begins with a description of **what is planned** in the project: what questions it will raise and how it will answer them.
-
--   Often such proposals are created for the purpose of **getting the resources** needed to conduct the research envisioned.
-
-## Research Proposal[^13]
-
-[^13]: @sekaranResearchMethodsBusiness2016
-
--   Before any research study is undertaken, there should be an **agreement** between the person who authorizes the study and the researcher as to:
-
-    -   the problem to be investigated,
-
-    -   the methodology to be used,
-
-    -   the duration of the study, and
-
-    -   its cost.
-
-## Arguments Presented in a Proposal
-
-1.  What do readers need to better understand your topic?
-
-2.  What do readers need to know about your topic?
-
-3.  What do you propose to study?
-
-4.  What is the setting, and who are the people you will study?
-
-5.  What methods do you plan to use to collect data?
-
-6.  How will you analyze the data?
-
-7.  How will you validate your findings?
-
-8.  What ethical issues will your study present?
-
-9.  What do preliminary results show about the practicability and value of the proposed study?
-
-## Format for a Quantitative Proposal
-
--   Introduction
-
--   Statement of the problem (issue, existing literature about problem, deficiencies in literature, relevance of study for audiences)
-
--   Purpose of the study
-
--   Research questions or hypotheses
-
--   Theoretical perspective
-
--   Review of the literature (theory may be included in this section instead of the introduction)
-
--   Methods
-
--   Type of research design (e.g., experimental, survey)
-
--   Population, sample, and participants
-
--   Data collection instruments, variables, and materials
-
--   Data analysis procedures
-
--   Anticipated ethical issues in the study
-
--   Preliminary studies or pilot tests
-
--   Appendixes: Instruments, timeline, and proposed budget
-
-------------------------------------------------------------------------
-
-::: {.callout-tip collapse="true"}
-## Tips: Designing the Sections of a Proposal[^14]
-
--   Specify the sections early in the design of a proposal. ... develop an outline.
-
--   Study previous proposal for the same organisation or supervisor.
-
--   Attend program or course on proposal development
-
--   Sit down with your adviser or supervisor, and go over his or her preferred format for a proposal.
-:::
-
-[^14]: @creswellResearchDesignQualitative2018
-
-
-## :thought_balloon: Writing as Thinking: Zero Draft
-
-<blockquote class="twitter-tweet">
-
-<p lang="en" dir="ltr">
-
-Do this exercise once a day for a week.<br><br>At the end of the week, you'll have written thousands of words.<br><br>Out of these thousands of words, you'll have a few hundred (or even more) *useful* words.<br><br>Write them separately. Or, you can cut and paste them in a new document.
-
-</p>
-
---- Mushtaq Bilal, PhD (@MushtaqBilalPhD) <a href="https://twitter.com/MushtaqBilalPhD/status/1590988271131430913?ref_src=twsrc%5Etfw">November 11, 2022</a>
-
-</blockquote>
-
-```{=html}
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
-
-## :thought_balloon: Writing as Thinking
-
--   Do not edit your proposal at the early-draft stage.
-
-    -   First develop an outline; it could be a sentence or word outline or a **visual map**
-    -   Write out a **draft** and then shift and sort ideas, moving entire paragraphs in the manuscript.
-    -   Finally, **edit and polish** each sentence.
-
-## :memo: The Habit of Writing
-
--   Establish the **discipline** of writing in a **regular and continuous** way on your proposal.
-
--   Make writing a daily activity, regardless of **mood**, regardless of readiness to write.
-
--   Write while you are **fresh.**
-
--   Avoid writing in **binges** (excessive).
-
--   Write in small, regular amounts
-
--   Schedule writing tasks
-
--   Time spent writing + page finished + tasks completed
-
--   Share your writing with **supportive peers.**
-
-## :vomiting_face: Reabability of the Manuscript/Draft
-
--   Use **consistent terms** in your proposal.
-
--   Readers need **road signs** to guide them from one major idea to the next.
-
--   Coherence in writing means that the ideas tie together and **logically flow** from one sentence to another and from one paragraph to another.
-
-## Voice, Tense, and "Fat"
-
--   Use the **active voice** as much as possible in scholarly writing.
-
--   Use strong active verbs.
-
--   Pay close attention to the tense of past studies:
-
-    -   Past simple tense or the present perfect tense for the **literature review and procedures** based on past events,
-    -   The past simple tense to **describe results**,
-    -   The present tense to **discuss the result**s and to present the **conclusions**.
-
--   Edit and revise drafts to **trim the fat**.
-
-------------------------------------------------------------------------
-
-##  {background-image="https://images.unsplash.com/photo-1552385430-53e6f2028760?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" background-size="contain" background-position="right"}
-
-> "If I have seen further, <br>it is by standing on the <br>shoulders of giants." <br>- Newton (1675)
-
--   Find an argument/angle
--   So what?
--   Advance the conversation
-
-## Citation
-
--   "Citing sources allows scholars to **give credit** to other scholars for their **hard work and their ideas.**"
-
--   "By citing sources, scholars provide **a roadmap for readers** who are interested in learning more about a topic and joining the **ongoing conversation** about that topic."
-
-::: aside
-Source: [Harvard University](https://usingsources.fas.harvard.edu/avoiding-plagiarism)
-:::
-
-## [References/Bibliography]{style="color:#A51C30"}
-
-![](image/ref1.png)
-
-## [References/Bibliography]{style="color:#A51C30"}
-
-![](image/ref2.png)
-
-## :rotating_light: Plagiarism[^16]
-
-[^16]: @sekaranResearchMethodsBusiness2016
-
--   "Purposely **misrepresenting the work of other authors** -- that is, their viewpoints, ideas, models, findings, conclusions, interpretations, and so on."
-
--   "Plagiarism -- the use of another's original words, arguments, or ideas as though **they were your own**, even if this is done in good faith, out of carelessness, or out of ignorance."
-
-## :relieved: How to Avoid Plagiarism
-
--   Keep **track** of your sources; print electronic sources
-
-    -   complete URL & date
-    -   check URL before submission
-
--   Keep sources in **correct context**
-
-    -   unbiased
-
--   Don't cut and paste: File and label your sources
-
-    -   separate file with date (2021-12-29-belk.doc)
-
-::: aside
-Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
-:::
-
-## :relieved: How to Avoid Plagiarism
-
--   Keep your **own writing** and your sources separate
-
--   Keep your **notes** and your draft separate
-
--   **Paraphrase** carefully in your notes; acknowledge your sources explicitly when paraphrasing
-
-    -   separate notes from draft
-
--   Don't save your citations **for later**
-
--   Always use **quotation marks** for directly quoted material, even for short phrases and key terms.
-
-::: aside
-Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
-:::
-
-------------------------------------------------------------------------
-
-::: columns
-::: {.column width="50%"}
-### <br> <br> <br> <br>[Completed Research is the Best Research]{style="color:#A51C30"}
-:::
-
-::: {.column width="50%"}
-<br><br> ![](image/writingpaper.jpg){fig-align="center"}
-:::
-:::
-
-## :brain: Your Turn
-
-```{r}
-countdown::countdown(minutes = 15, right = "-1%", top = "-4%", play_sound = TRUE)
-```
-
-::: nonincremental
-::: goal
-1.  Describe an object by its parts and dimensions, without first telling the reader its name.
-
-OR
-
-2.  Write a conversation between two people on any dramatic subject.
-
-OR
-
-3.  Write a set of directions for a complicated task.
-:::
-:::
-
-# [ethics]{style="color:#ffffff"} {.big-text background-image="image/ethics.jpg" background-size="contain" background-color="black"}
+<br> <br>
 
 ## Ethics & Research[^17]
 
@@ -1111,6 +834,289 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 [^19]: @babbiePracticeSocialResearch2020
 
+# [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
+
+## Research Proposal[^13]
+
+[^13]: @babbiePracticeSocialResearch2020
+
+-   Most organized research begins with a description of **what is planned** in the project: what questions it will raise and how it will answer them.
+
+-   Often such proposals are created for the purpose of **getting the resources** needed to conduct the research envisioned.
+
+## Research Proposal[^14]
+
+[^14]: @sekaranResearchMethodsBusiness2016
+
+-   Before any research study is undertaken, there should be an **agreement** between the person who authorizes the study and the researcher as to:
+
+    -   the problem to be investigated,
+
+    -   the methodology to be used,
+
+    -   the duration of the study, and
+
+    -   its cost.
+
+## Arguments Presented in a Proposal
+
+1.  What do readers need to better understand your topic?
+
+2.  What do readers need to know about your topic?
+
+3.  What do you propose to study?
+
+4.  What is the setting, and who are the people you will study?
+
+5.  What methods do you plan to use to collect data?
+
+6.  How will you analyze the data?
+
+7.  How will you validate your findings?
+
+8.  What ethical issues will your study present?
+
+9.  What do preliminary results show about the practicability and value of the proposed study?
+
+## Format for a Quantitative Proposal
+
+-   Introduction
+
+-   Statement of the problem (issue, existing literature about problem, deficiencies in literature, relevance of study for audiences)
+
+-   Purpose of the study
+
+-   Research questions or hypotheses
+
+-   Theoretical perspective
+
+-   Review of the literature (theory may be included in this section instead of the introduction)
+
+-   Methods
+
+-   Type of research design (e.g., experimental, survey)
+
+-   Population, sample, and participants
+
+-   Data collection instruments, variables, and materials
+
+-   Data analysis procedures
+
+-   Anticipated ethical issues in the study
+
+-   Preliminary studies or pilot tests
+
+-   Appendixes: Instruments, timeline, and proposed budget
+
+------------------------------------------------------------------------
+
+::: {.callout-tip collapse="true"}
+## Tips: Designing the Sections of a Proposal[^15]
+
+-   Specify the sections early in the design of a proposal. ... develop an outline.
+
+-   Study previous proposal for the same organisation or supervisor.
+
+-   Attend program or course on proposal development
+
+-   Sit down with your adviser or supervisor, and go over his or her preferred format for a proposal.
+:::
+
+[^15]: @creswellResearchDesignQualitative2018
+
+
+# [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
+
+## Writing Ideas[^12]
+
+[^12]: @creswellResearchDesignQualitative2018
+
+::: columns
+::: {.column width="50%"}
+<br> <br> "to practice writing rather than simply talk about it"
+:::
+
+::: {.column width="50%"}
+![](image/writingpaper2.jpg){fig-align="center"}
+:::
+:::
+
+## :thought_balloon: Writing as Thinking
+
+-   Early in the process of research, **write ideas** down rather than talk about them.
+
+-   Working through **several drafts of a proposal** rather than trying to polish the first draft
+
+## :thought_balloon: Writing as Thinking: Zero Draft
+
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+Do this exercise once a day for a week.<br><br>At the end of the week, you'll have written thousands of words.<br><br>Out of these thousands of words, you'll have a few hundred (or even more) *useful* words.<br><br>Write them separately. Or, you can cut and paste them in a new document.
+
+</p>
+
+--- Mushtaq Bilal, PhD (@MushtaqBilalPhD) <a href="https://twitter.com/MushtaqBilalPhD/status/1590988271131430913?ref_src=twsrc%5Etfw">November 11, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+## :thought_balloon: Writing as Thinking
+
+-   Do not edit your proposal at the early-draft stage.
+
+    -   First develop an outline; it could be a sentence or word outline or a **visual map**
+    -   Write out a **draft** and then shift and sort ideas, moving entire paragraphs in the manuscript.
+    -   Finally, **edit and polish** each sentence.
+
+## :memo: The Habit of Writing
+
+-   Establish the **discipline** of writing in a **regular and continuous** way on your proposal.
+
+-   Make writing a daily activity, regardless of **mood**, regardless of readiness to write.
+
+-   Write while you are **fresh.**
+
+-   Avoid writing in **binges** (excessive).
+
+-   Write in small, regular amounts
+
+-   Schedule writing tasks
+
+-   Time spent writing + page finished + tasks completed
+
+-   Share your writing with **supportive peers.**
+
+## :vomiting_face: Reabability of the Manuscript/Draft
+
+-   Use **consistent terms** in your proposal.
+
+-   Readers need **road signs** to guide them from one major idea to the next.
+
+-   Coherence in writing means that the ideas tie together and **logically flow** from one sentence to another and from one paragraph to another.
+
+## Voice, Tense, and "Fat"
+
+-   Use the **active voice** as much as possible in scholarly writing.
+
+-   Use strong active verbs.
+
+-   Pay close attention to the tense of past studies:
+
+    -   Past simple tense or the present perfect tense for the **literature review and procedures** based on past events,
+    -   The past simple tense to **describe results**,
+    -   The present tense to **discuss the result**s and to present the **conclusions**.
+
+-   Edit and revise drafts to **trim the fat**.
+
+------------------------------------------------------------------------
+
+##  {background-image="https://images.unsplash.com/photo-1552385430-53e6f2028760?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" background-size="contain" background-position="right"}
+
+> "If I have seen further, <br>it is by standing on the <br>shoulders of giants." <br>- Newton (1675)
+
+-   Find an argument/angle
+-   So what?
+-   Advance the conversation
+
+## Citation
+
+-   "Citing sources allows scholars to **give credit** to other scholars for their **hard work and their ideas.**"
+
+-   "By citing sources, scholars provide **a roadmap for readers** who are interested in learning more about a topic and joining the **ongoing conversation** about that topic."
+
+::: aside
+Source: [Harvard University](https://usingsources.fas.harvard.edu/avoiding-plagiarism)
+:::
+
+## [References/Bibliography]{style="color:#A51C30"}
+
+![](image/ref1.png)
+
+## [References/Bibliography]{style="color:#A51C30"}
+
+![](image/ref2.png)
+
+## :rotating_light: Plagiarism[^16]
+
+[^16]: @sekaranResearchMethodsBusiness2016
+
+-   "Purposely **misrepresenting the work of other authors** -- that is, their viewpoints, ideas, models, findings, conclusions, interpretations, and so on."
+
+-   "Plagiarism -- the use of another's original words, arguments, or ideas as though **they were your own**, even if this is done in good faith, out of carelessness, or out of ignorance."
+
+## :relieved: How to Avoid Plagiarism
+
+-   Keep **track** of your sources; print electronic sources
+
+    -   complete URL & date
+    -   check URL before submission
+
+-   Keep sources in **correct context**
+
+    -   unbiased
+
+-   Don't cut and paste: File and label your sources
+
+    -   separate file with date (2021-12-29-belk.doc)
+
+::: aside
+Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
+:::
+
+## :relieved: How to Avoid Plagiarism
+
+-   Keep your **own writing** and your sources separate
+
+-   Keep your **notes** and your draft separate
+
+-   **Paraphrase** carefully in your notes; acknowledge your sources explicitly when paraphrasing
+
+    -   separate notes from draft
+
+-   Don't save your citations **for later**
+
+-   Always use **quotation marks** for directly quoted material, even for short phrases and key terms.
+
+::: aside
+Source: [Harvard College Writing Program](https://usingsources.fas.harvard.edu/how-avoid-plagiarism)
+:::
+
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+### <br> <br> <br> <br>[Completed Research is the Best Research]{style="color:#A51C30"}
+:::
+
+::: {.column width="50%"}
+<br><br> ![](image/writingpaper.jpg){fig-align="center"}
+:::
+:::
+
+## :brain: Your Turn
+
+```{r}
+countdown::countdown(minutes = 15, right = "-1%", top = "-4%", play_sound = TRUE)
+```
+
+::: nonincremental
+::: goal
+1.  Describe an object by its parts and dimensions, without first telling the reader its name.
+
+OR
+
+2.  Write a conversation between two people on any dramatic subject.
+
+OR
+
+3.  Write a set of directions for a complicated task.
+:::
+:::
+
 ## :trophy: Hallmarks of Scientific Research[^20]
 
 [^20]: @sekaranResearchMethodsBusiness2016
@@ -1249,17 +1255,17 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 [^21]: @creswellResearchDesignQualitative2018
 
-1. Establishing the problem leading to the study,
+1.  Establishing the problem leading to the study,
 
-1. Reviewing the literature about the problem,
+2.  Reviewing the literature about the problem,
 
-1. Identifying deficiencies in the literature about the problem,
+3.  Identifying deficiencies in the literature about the problem,
 
-1. Targeting an audience and noting the **significance of the problem** for this audience, and
+4.  Targeting an audience and noting the **significance of the problem** for this audience, and
 
-1. Identifying the purpose of the proposed study.
+5.  Identifying the purpose of the proposed study.
 
-## Research Problem/Question
+## The Research Problem
 
 [Identification of the Broad Problem]{style="color:#A51C30"}<br>$\downarrow$ <br>[Preliminary Research]{style="color:#A51C30"}<br>$\downarrow$<br>[Definition of the Research Problem]{style="color:#A51C30"}
 
@@ -1281,15 +1287,9 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 "My study is about ..."
 :::
 
-## (Social) Research Question
-
-"A question about the social world that is answered through the collection and analysis of first-hand, verifiable, empirical data."[^23]
+## "Good" Research Question[^23]
 
 [^23]: @chamblissMakingSenseSocial2018
-
-## "Good" Research Question[^24]
-
-[^24]: @chamblissMakingSenseSocial2018
 
 -   Feasibility given the time and resources available
 
@@ -1307,15 +1307,9 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   helps address **social justice**, or ...
 
--   **transforms** the ideas and beliefs of the researcher." [@creswellResearchDesignQualitative2018]
+-   **transforms** the ideas and beliefs of the researcher."
 
-## How does this project contribute to the literature?
-
-> "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
-
-## :mag::eyes: A new perspective or "angle" to the existing literature:[^25]
-
-[^25]: @creswellResearchDesignQualitative2018
+## :mag::eyes: A new perspective or "angle" to the existing literature:
 
 -   Studying an **unusual location** (e.g., rural India).
 
@@ -1323,21 +1317,51 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   Taking a **perspective** that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
 
-## :mag::eyes: A new perspective or "angle" to the existing literature:[^26]
-
-[^26]: @creswellResearchDesignQualitative2018
+## :mag::eyes: A new perspective or "angle" to the existing literature:
 
 -   Providing **novel means** of collecting data (e.g., collect sounds).
 
--   Presenting results in unusual ways.
+-   Presenting results in **unusual ways**.
 
--   Studying a timely topic (e.g., immigration issues)
+-   Studying a **timely topic** (e.g., immigration issues)
+
+## Studies Addressing the Problem
+
+-   **Reviewing** studies that have examined the issue.
+
+-   **Summarize** large groups of studies instead of individual ones.
+
+-   **Justify** the importance of the study
+
+-   To create **distinction** between past studies and the proposed one.
+
+## Deficiencies in Past Literature
+
+-   Topics have not been explored with a particular group, sample, or population;
+
+-   The literature may need to be replicated or repeated;
+
+-   The voices of underrepresented groups left
+
+-   "future research"
+
+## Significance of a Study for Audiences
+
+-   3 or 4 reasons that the **study adds** to scholarly research and literature in the field.
+
+-   3 or 4 reasons about how the study helps **improve practice**.
+
+-   3 or 4 reasons as to why the study will improve **policy or decision making**.
 
 # [lit review]{style="color:#ffffff"} {.big-text background-image="image/lit.jpg" background-size="cover" style="text-align: center"}
 
----
+------------------------------------------------------------------------
 
 ![](https://i.imgflip.com/5rlujd.jpg){fig-aligh="center"}
+
+## How does this project contribute to the literature?
+
+> "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
 
 ## :books: Why Literature Review?
 
@@ -1371,7 +1395,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   The Internet
 
-## Why?
+## :sob: Literature Review Process
 
 <blockquote class="twitter-tweet">
 
@@ -1388,10 +1412,9 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 ```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
+## :sob: Literature Review Process[^24]...
 
-## :sob: Literature Review Process[^27]...
-
-[^27]: @creswellResearchDesignQualitative2018
+[^24]: @creswellResearchDesignQualitative2018
 
 1.  Begin by identifying **key words.**
 
@@ -1417,7 +1440,7 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 
 -   It is at this point as well that you could advance a **critique of the past** literature and point our **deficiencies** in it and issues in its methods.
 
----
+------------------------------------------------------------------------
 
 ![](https://i.imgflip.com/5rdmnz.jpg){fig-align="center"}
 
@@ -1459,15 +1482,15 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 ## [Connected Papers]{style="color:#A51C30"}
 
--   "A visual tool to help researchers and practitioners find and explore academic papers."[^28]
+-   "A visual tool to help researchers and practitioners find and explore academic papers."[^25]
 
--   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^29]
+-   "Connected Papers uses a single, user-chosen **'origin paper'** to build a map of related research, based partly on overlapping citations. The service recently surpassed one million users"[^26]
 
 -   Website: <https://www.connectedpapers.com/>
 
-[^28]: Source <https://twitter.com/ConnectedPapers>
+[^25]: Source <https://twitter.com/ConnectedPapers>
 
-[^29]: Source <https://www.nature.com/articles/d41586-021-02346-4>
+[^26]: Source <https://www.nature.com/articles/d41586-021-02346-4>
 
 ## Open Knowledge Maps {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="contain" style="text-align: center"}
 
@@ -1489,13 +1512,13 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 -   Website: <https://www.scholarcy.com/>
 
-## Speechify {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="right"}
+## [Speechify]{style="color:#A51C30"} {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="right"}
 
 -   "Reading is hard. Listening is easy. Listen to the things you normally read with the #1 text-to-speech AI reader."
 
 -   Website: <https://speechify.com/>
 
-## scite\_ {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="right"}
+## [scite\_]{style="color:#A51C30"} {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="right"}
 
 -   "1.1b citation statements extracted and analyzed from over 32m full-text articles"
 
@@ -1505,29 +1528,31 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 # [theory]{style="color:#ffffff"} {.big-text background-image="image/theory.jpg" background-size="cover"}
 
-## Theory
+## [Theory]{style="color:#0e6251"}
 
 -   "**explain**s a certain phenomenon, ...
 
--   and the idea is that this explanation **will hold** in a wide range of settings."[^30]
+-   and the idea is that this explanation **will hold** in a wide range of settings."[^27]
 
--   "theory is any concept, instrument, model, or framework that helps them to think about or solve a problem, to describe a phenomenon, or to better understand a topic of interest"
+-   "theory is any concept, instrument, model, or framework that helps them to think about or solve a problem, to describe a phenomenon, or to **better understand** a topic of interest"
 
-[^30]: @sekaranResearchMethodsBusiness2016
+[^27]: @sekaranResearchMethodsBusiness2016
 
-## *Expectancy Theory of Motivation*
+## [Expectancy Theory of Motivation]{style="color:#0e6251"}
 
-By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectancy-theory) (in 1964): "people will choose how to behave depending on the outcome they expect as a result of their behavior."
+By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectancy-theory) (in 1964):
 
--   [**Expectancy Theory:**]{style="color:#A51C30"}[^31]
+> "people will choose how to behave depending on the outcome they expect as a result of their behavior."
 
-    -   "people decide what to do based on what they expect the outcome to be"
+## [Expectancy Theory:]{style="color:#0e6251"}[^28]
 
-    -   "individuals are motivated to perform if they know that their extra performance is recognized and rewarded"
+[^28]: @sekaranResearchMethodsBusiness2016
 
-[^31]: @sekaranResearchMethodsBusiness2016
+-   "people decide what to do based on what they expect the outcome to be"
 
-## The Role of Theory
+-   "individuals are motivated to perform if they know that their extra performance is recognized and rewarded"
+
+## [The Role of Theory]{style="color:#0e6251"}
 
 -   Some research is aimed at building theory ...
 
@@ -1535,9 +1560,9 @@ By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectanc
 
 -   to describe what is going on, using an existing framework, instrument, or model.
 
-## The Use of Theory[^32]
+## [The Use of Theory]{style="color:#0e6251"}[^29]
 
-[^32]: @creswellResearchDesignQualitative2018
+[^29]: @creswellResearchDesignQualitative2018
 
 ### In quantitative research,
 
