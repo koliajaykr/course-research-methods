@@ -1,8 +1,6 @@
 ---
 title: "RESEARCH METHODS"
 author: "Ajay Koli"
-date: ""
-date-format: medium
 format: 
   revealjs:
     smooth-scroll: true
@@ -67,7 +65,9 @@ Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< 
 ::: callout-note
 ## During the Sessions
 
-:stars: These slide's online link is <https://research-methods.netlify.app/>
+:stars: These slide's online link is <https://research-methods.netlify.app/> 
+
+:hourglass: Slides created on 15 Oct 2022 (updated on `r format(Sys.Date(), "%b %d %Y")`)
 
 :brain: Your Turn
 
@@ -532,7 +532,7 @@ Began in late 1980s
 
 ## Research Methods
 
-"Involve the forms of data collection, analysis, and interpretation that researchers propose for their studies"
+"Involve the **forms of** data collection, analysis, and interpretation that researchers propose for their studies"
 
 ![](image/framework-research.jpg){fig-align="center"}
 
@@ -545,11 +545,11 @@ Began in late 1980s
 
 -   Open-ended questions
 
--   Interview data, observation data, document data & audiovisual data
+-   Interview data, observation data, document data & audio-visual data
 
 -   Text & image analysis
 
--   Themes, patterns interpretation
+-   Themes, patterns, and interpretation
 
 ## Quantitative
 
@@ -618,9 +618,9 @@ Take a topic that you would like to study, and using the combinations of worldvi
 
 <br> <br>
 
-## Ethics & Research[^17]
+## Ethics & Research[^12]
 
-[^17]: @sekaranResearchMethodsBusiness2016
+[^12]: @sekaranResearchMethodsBusiness2016
 
 -   "code of conduct or expected societal norms of behaviour while conducting research."
 -   Ethical conduct applies to:
@@ -648,9 +648,9 @@ Image source: <https://en.wikipedia.org/wiki/Nazi_human_experimentation>
 Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 :::
 
-## Ethical Issues in Research[^18]
+## Ethical Issues in Research[^13]
 
-[^18]: @creswellResearchDesignQualitative2018
+[^13]: @creswellResearchDesignQualitative2018
 
 ::: nonincremental
 1.  Prior to conducting the study
@@ -677,7 +677,7 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 -   Select a site without a vested interest in outcome of study.
 
--   Negotiate authorship for publication
+-   Negotiate authorship for publication.
 
 ## How to Address
 
@@ -745,7 +745,7 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 -   Discuss purpose of the study and how data will be used.
 
--   Avoid leading questions. Withhold sharing personal impressions. Avoid disclosing sensitive information. Involve participants as collaborators.
+-   Avoid leading questions. **Withhold sharing personal impressions.** Avoid disclosing sensitive information. Involve participants as collaborators.
 
 -   Provide rewards for participating.
 
@@ -820,7 +820,7 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 
 ::: nonincremental
 ::: callout-important
-## IMPORTANT TERMS[^19]
+## IMPORTANT TERMS[^14]
 
 -   **Anonymity:** Anonymity is guaranteed in a research project when neither the researchers nor the readers of the findings can link a given response with a given respondent.
 
@@ -832,104 +832,13 @@ Image source: <https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study>
 :::
 :::
 
-[^19]: @babbiePracticeSocialResearch2020
-
-# [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
-
-## Research Proposal[^13]
-
-[^13]: @babbiePracticeSocialResearch2020
-
--   Most organized research begins with a description of **what is planned** in the project: what questions it will raise and how it will answer them.
-
--   Often such proposals are created for the purpose of **getting the resources** needed to conduct the research envisioned.
-
-## Research Proposal[^14]
-
-[^14]: @sekaranResearchMethodsBusiness2016
-
--   Before any research study is undertaken, there should be an **agreement** between the person who authorizes the study and the researcher as to:
-
-    -   the problem to be investigated,
-
-    -   the methodology to be used,
-
-    -   the duration of the study, and
-
-    -   its cost.
-
-## Arguments Presented in a Proposal
-
-1.  What do readers need to better understand your topic?
-
-2.  What do readers need to know about your topic?
-
-3.  What do you propose to study?
-
-4.  What is the setting, and who are the people you will study?
-
-5.  What methods do you plan to use to collect data?
-
-6.  How will you analyze the data?
-
-7.  How will you validate your findings?
-
-8.  What ethical issues will your study present?
-
-9.  What do preliminary results show about the practicability and value of the proposed study?
-
-## Format for a Quantitative Proposal
-
--   Introduction
-
--   Statement of the problem (issue, existing literature about problem, deficiencies in literature, relevance of study for audiences)
-
--   Purpose of the study
-
--   Research questions or hypotheses
-
--   Theoretical perspective
-
--   Review of the literature (theory may be included in this section instead of the introduction)
-
--   Methods
-
--   Type of research design (e.g., experimental, survey)
-
--   Population, sample, and participants
-
--   Data collection instruments, variables, and materials
-
--   Data analysis procedures
-
--   Anticipated ethical issues in the study
-
--   Preliminary studies or pilot tests
-
--   Appendixes: Instruments, timeline, and proposed budget
-
-------------------------------------------------------------------------
-
-::: {.callout-tip collapse="true"}
-## Tips: Designing the Sections of a Proposal[^15]
-
--   Specify the sections early in the design of a proposal. ... develop an outline.
-
--   Study previous proposal for the same organisation or supervisor.
-
--   Attend program or course on proposal development
-
--   Sit down with your adviser or supervisor, and go over his or her preferred format for a proposal.
-:::
-
-[^15]: @creswellResearchDesignQualitative2018
-
+[^14]: @babbiePracticeSocialResearch2020
 
 # [writing]{style="color:#ffffff"} {.big-text background-image="image/writingdream.jpg" background-size="cover"}
 
-## Writing Ideas[^12]
+## Writing Ideas[^15]
 
-[^12]: @creswellResearchDesignQualitative2018
+[^15]: @creswellResearchDesignQualitative2018
 
 ::: columns
 ::: {.column width="50%"}
@@ -1117,6 +1026,96 @@ OR
 :::
 :::
 
+# [Research<br>Proposal]{style="color:#ffffff"} {background-image="image/proposal.jpg" background-size="contain" background-position="right" background-color="black"}
+
+## Research Proposal[^17]
+
+[^17]: @babbiePracticeSocialResearch2020
+
+-   Most organized research begins with a description of **what is planned** in the project: what questions it will raise and how it will answer them.
+
+-   Often such proposals are created for the purpose of **getting the resources** needed to conduct the research envisioned.
+
+## Research Proposal[^18]
+
+[^18]: @sekaranResearchMethodsBusiness2016
+
+-   Before any research study is undertaken, there should be an **agreement** between the person who authorizes the study and the researcher as to:
+
+    -   the problem to be investigated,
+
+    -   the methodology to be used,
+
+    -   the duration of the study, and
+
+    -   its cost.
+
+## Arguments Presented in a Proposal
+
+1.  What do readers need to better understand your topic?
+
+2.  What do readers need to know about your topic?
+
+3.  What do you propose to study?
+
+4.  What is the setting, and who are the people you will study?
+
+5.  What methods do you plan to use to collect data?
+
+6.  How will you analyze the data?
+
+7.  How will you validate your findings?
+
+8.  What ethical issues will your study present?
+
+9.  What do preliminary results show about the practicability and value of the proposed study?
+
+## Format for a Quantitative Proposal
+
+-   Introduction
+
+-   Statement of the problem (issue, existing literature about problem, deficiencies in literature, relevance of study for audiences)
+
+-   Purpose of the study
+
+-   Research questions or hypotheses
+
+-   Theoretical perspective
+
+-   Review of the literature (theory may be included in this section instead of the introduction)
+
+-   Methods
+
+-   Type of research design (e.g., experimental, survey)
+
+-   Population, sample, and participants
+
+-   Data collection instruments, variables, and materials
+
+-   Data analysis procedures
+
+-   Anticipated ethical issues in the study
+
+-   Preliminary studies or pilot tests
+
+-   Appendixes: Instruments, timeline, and proposed budget
+
+------------------------------------------------------------------------
+
+::: {.callout-tip collapse="true"}
+## Tips: Designing the Sections of a Proposal[^19]
+
+-   Specify the sections early in the design of a proposal. ... develop an outline.
+
+-   Study previous proposal for the same organisation or supervisor.
+
+-   Attend program or course on proposal development
+
+-   Sit down with your adviser or supervisor, and go over his or her preferred format for a proposal.
+:::
+
+[^19]: @creswellResearchDesignQualitative2018
+
 ## :trophy: Hallmarks of Scientific Research[^20]
 
 [^20]: @sekaranResearchMethodsBusiness2016
@@ -1184,7 +1183,7 @@ OR
 
 ![](image/parsimony.gif){fig-align="center"}
 
-# [cook<br>book]{style="color:#A51C30"} {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
+# [:shallow_pan_of_food:cook<br>book:nerd_face:]{style="color:#000000"} {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
 
 ## :shallow_pan_of_food: Let's cook...
 
@@ -1198,7 +1197,7 @@ OR
 
 5.  So what, you cooked this dish (sh!t)?
 
-## :shallow_pan_of_food: Let's cook... Research
+## :shallow_pan_of_food::nerd_face: Let's cook... Research
 
 1.  What to cook?
 
@@ -1251,65 +1250,65 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 # [INTRODUCTION]{style="color:#ffffff"} {background-image="image/intro.jpg" background-size="contain" background-position="110%" background-color="black"}
 
-## :plate_with_cutlery: A Good Introduction Addresses[^21]:
+## :plate_with_cutlery: [A Good Introduction Addresses[^21]]{style="color:#A51C30"}:
 
 [^21]: @creswellResearchDesignQualitative2018
 
-1.  Establishing the problem leading to the study,
+1.  **Establishing** the problem leading to the study,
 
-2.  Reviewing the literature about the problem,
+2.  **Reviewing** the literature about the problem,
 
-3.  Identifying deficiencies in the literature about the problem,
+3.  Identifying **deficiencies** in the literature about the problem,
 
 4.  Targeting an audience and noting the **significance of the problem** for this audience, and
 
-5.  Identifying the purpose of the proposed study.
+5.  Identifying the **purpose** of the proposed study.
 
 ## The Research Problem
 
 [Identification of the Broad Problem]{style="color:#A51C30"}<br>$\downarrow$ <br>[Preliminary Research]{style="color:#A51C30"}<br>$\downarrow$<br>[Definition of the Research Problem]{style="color:#A51C30"}
 
-## The Research Topic[^22]
+## [The Research Topic[^22]]{style="color:#A51C30"}
 
 [^22]: @creswellResearchDesignQualitative2018
 
 -   "The topic is the subject or **subject matter** of a proposed study"
 
--   *"casteism", "organizational creativity", "psychological stress", "consumer buying behavior", "exam anxiety"*
+-   ["casteism", "organizational creativity", "psychological stress", "consumer buying behavior", "exam anxiety", "leadership", "service quality"]{style="color:#A51C30"}
 
 -   "The topic becomes the **central idea** to learn about or to explore"
 
--   "topic **grounds us** and provides a sign of what we are studying."
+-   "Topic **grounds us** and provides a **sign** of what we are studying."
 
-## How to write a working Title?
+## [How to write a working Title?]{style="color:#A51C30"}
 
 ::: callout-tip
-"My study is about ..."
+"My study is about ......................................"
 :::
 
-## "Good" Research Question[^23]
+## ["Good" Research Question[^23]]{style="color:#A51C30"}
 
 [^23]: @chamblissMakingSenseSocial2018
 
--   Feasibility given the time and resources available
+-   **Feasibility** given the time and resources available
 
 -   Social importance, and
 
 -   Scientific relevance
 
-## Good Topic or Question
+## [Good Topic or Question]{style="color:#A51C30"}
 
--   "**adds** to the pool of research knowledge in the literature available on the topic, ...
+-   "**Adds** to the pool of research knowledge in the literature available on the topic, ...
 
--   **replicate** past studies, ...
+-   **Replicate** past studies, ...
 
--   lifts up the voices of **under-represented groups** or individuals, ...
+-   Lifts up the voices of **under-represented groups** or individuals, ...
 
--   helps address **social justice**, or ...
+-   Helps to address **social justice**, or ...
 
--   **transforms** the ideas and beliefs of the researcher."
+-   **Transforms** the ideas and beliefs of the researcher."
 
-## :mag::eyes: A new perspective or "angle" to the existing literature:
+## :mag::eyes: [A new perspective or "angle" to the existing literature:]{style="color:#A51C30"}
 
 -   Studying an **unusual location** (e.g., rural India).
 
@@ -1317,7 +1316,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   Taking a **perspective** that may not be expected and reverses the expectation (e.g., why marriages do work rather than do not work).
 
-## :mag::eyes: A new perspective or "angle" to the existing literature:
+## :mag::eyes: [A new perspective or "angle" to the existing literature:]{style="color:#A51C30"}
 
 -   Providing **novel means** of collecting data (e.g., collect sounds).
 
@@ -1325,7 +1324,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   Studying a **timely topic** (e.g., immigration issues)
 
-## Studies Addressing the Problem
+## [Studies Addressing the Problem]{style="color:#A51C30"}
 
 -   **Reviewing** studies that have examined the issue.
 
@@ -1335,17 +1334,17 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   To create **distinction** between past studies and the proposed one.
 
-## Deficiencies in Past Literature
+## [Deficiencies in Past Literature]{style="color:#A51C30"}
 
--   Topics have not been explored with a particular group, sample, or population;
+-   Topics have not been explored with a **particular group**, sample, or population;
 
 -   The literature may need to be replicated or repeated;
 
 -   The voices of underrepresented groups left
 
--   "future research"
+-   "Future research" to look for gaps.
 
-## Significance of a Study for Audiences
+## [Significance of a Study for Audiences]{style="color:#A51C30"}
 
 -   3 or 4 reasons that the **study adds** to scholarly research and literature in the field.
 
