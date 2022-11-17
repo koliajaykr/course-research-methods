@@ -65,7 +65,7 @@ Ajay Koli <br>Head, School of Data Science <br>Nalanda Academy - Wardha <br>{{< 
 ::: callout-note
 ## During the Sessions
 
-:stars: These slide's online link is <https://research-methods.netlify.app/> 
+:stars: These slide's online link is <https://research-methods.netlify.app/>
 
 :hourglass: Slides created on 15 Oct 2022 (updated on `r format(Sys.Date(), "%b %d %Y")`)
 
@@ -1250,7 +1250,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 # [INTRODUCTION]{style="color:#ffffff"} {background-image="image/intro.jpg" background-size="contain" background-position="110%" background-color="black"}
 
-## :plate_with_cutlery: [A Good Introduction Addresses[^21]]{style="color:#A51C30"}:
+## :plate_with_cutlery: [A Good Introduction Addresses]{style="color:#A51C30"}[^21]:
 
 [^21]: @creswellResearchDesignQualitative2018
 
@@ -1268,7 +1268,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 [Identification of the Broad Problem]{style="color:#A51C30"}<br>$\downarrow$ <br>[Preliminary Research]{style="color:#A51C30"}<br>$\downarrow$<br>[Definition of the Research Problem]{style="color:#A51C30"}
 
-## [The Research Topic[^22]]{style="color:#A51C30"}
+## [The Research Topic]{style="color:#A51C30"}[^22]
 
 [^22]: @creswellResearchDesignQualitative2018
 
@@ -1286,7 +1286,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 "My study is about ......................................"
 :::
 
-## ["Good" Research Question[^23]]{style="color:#A51C30"}
+## ["Good" Research Question]{style="color:#A51C30"}[^23]
 
 [^23]: @chamblissMakingSenseSocial2018
 
@@ -1358,17 +1358,17 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 ![](https://i.imgflip.com/5rlujd.jpg){fig-aligh="center"}
 
-## How does this project contribute to the literature?
+## [How does this project contribute to the literature?]{style="color:#36013F"}
 
 > "Research is to see what everybody else has seen, and to think what nobody else has thought." <br><br>-- Albert Szent-Gyorgyi
 
-## :books: Why Literature Review?
+## :books: [Why Literature Review?]{style="color:#36013F"}
 
 -   "literature review helps to determine whether the topic is **worth studying**, and it provides insight into ways in which the researcher can **limit the scope** to a needed area of inquiry."
 
 -   "to consider whether the research topic can and should be researched"
 
-## :books: Purpose of Literature Review:
+## :books: [Purpose of Literature Review:]{style="color:#36013F"}
 
 -   It shares with the reader the **results of other studies** that are closely related to the one being undertaken.
 
@@ -1376,7 +1376,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   It provides a framework for establishing the importance of the study as well as a benchmark for **comparing the results** with other findings.
 
-## :books: LR Sources {background-image="image/litref.png" background-size="contain" background-position="75%"}
+## :books: [LR Sources]{style="color:#36013F"} {background-image="image/litref.png" background-size="contain" background-position="75%"}
 
 -   Textbooks
 
@@ -1394,7 +1394,7 @@ Souce: <http://www.discoveringstatistics.com/docs/writinglabreports.pdf>
 
 -   The Internet
 
-## :sob: Literature Review Process
+## :sob: [Literature Review Process]{style="color:#36013F"}
 
 <blockquote class="twitter-tweet">
 
@@ -1411,7 +1411,7 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 ```{=html}
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
-## :sob: Literature Review Process[^24]...
+## :sob: [Literature Review Process]{style="color:#36013F"}[^24]...
 
 [^24]: @creswellResearchDesignQualitative2018
 
@@ -1423,13 +1423,13 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 
 4.  Skim this initial group of articles or chapters, and collect those that are **central to your topic**.
 
-## :sob: Literature Review Process...
+## :sob: [Literature Review Process...]{style="color:#36013F"}
 
 5.  Designing a **literature map** ... a **visual picture of groupings** of the literature on the topic that illustrates how your particular study will add to the existing literature and position your study within the larger body of research.
 
 6.  Begin to **draft summaries** of the most relevant articles. Include precise references to the literature using an appropriate style guide like [APA](https://apastyle.apa.org/style-grammar-guidelines).
 
-## :sob: Literature Review Process
+## :sob: [Literature Review Process]{style="color:#36013F"}
 
 7.  After **summarizing** the literature,
 
@@ -1443,7 +1443,7 @@ Search for that one reason/sentence while writing. <a href="https://twitter.com/
 
 ![](https://i.imgflip.com/5rdmnz.jpg){fig-align="center"}
 
-## :hammer_and_wrench: Literature Review Tools
+## :hammer_and_wrench: [Literature Review Tools]{style="color:#36013F"}
 
 ::: columns
 ::: {.column width="50%"}
@@ -1477,9 +1477,9 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 :::
 :::
 
-## Connected Papers {background-image="https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577/1500x500" background-size="contain" style="text-align: center"}
+## [Connected Papers]{style="color:#36013F"} {background-image="https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577/1500x500" background-size="contain" style="text-align: center"}
 
-## [Connected Papers]{style="color:#A51C30"}
+## [Connected Papers]{style="color:#36013F"}
 
 -   "A visual tool to help researchers and practitioners find and explore academic papers."[^25]
 
@@ -1491,9 +1491,9 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 [^26]: Source <https://www.nature.com/articles/d41586-021-02346-4>
 
-## Open Knowledge Maps {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="contain" style="text-align: center"}
+## [Open Knowledge Maps]{style="color:#36013F"} {background-image="https://openknowledgemaps.org/img/benefits-OKM/benefits-all3.png" background-size="contain" style="text-align: center"}
 
-## [Open Knowledge Maps]{style="color:#A51C30"}
+## [Open Knowledge Maps]{style="color:#36013F"}
 
 -   "We are a **charitable non-profit** organization and we believe that a better way to explore and discover scientific knowledge will benefit us all."
 
@@ -1501,9 +1501,9 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 -   Website: <https://openknowledgemaps.org/index>
 
-## Scholarcy {background-image="https://www.scholarcy.com/wp-content/uploads/2018/10/illustration.svg" background-size="70%" style="text-align: center"}
+## [Scholarcy]{style="color:#36013F"} {background-image="https://www.scholarcy.com/wp-content/uploads/2018/10/illustration.svg" background-size="70%" style="text-align: center"}
 
-## [Scholarcy]{style="color:#A51C30"}
+## [Scholarcy]{style="color:#36013F"}
 
 -   "The AI-powered article summarizer"
 
@@ -1511,13 +1511,13 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 -   Website: <https://www.scholarcy.com/>
 
-## [Speechify]{style="color:#A51C30"} {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="right"}
+## [Speechify]{style="color:#36013F"} {background-image="https://speechify.com/wp-content/uploads/2022/05/speechify-logo.png" background-size="20%" background-position="right"}
 
 -   "Reading is hard. Listening is easy. Listen to the things you normally read with the #1 text-to-speech AI reader."
 
 -   Website: <https://speechify.com/>
 
-## [scite\_]{style="color:#A51C30"} {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="right"}
+## [scite\_]{style="color:#36013F"} {background-image="https://pbs.twimg.com/profile_images/1052280849733955584/8fYtjSQd_400x400.jpg" background-size="10%" background-position="right"}
 
 -   "1.1b citation statements extracted and analyzed from over 32m full-text articles"
 
@@ -1529,15 +1529,19 @@ Academic writing is wild bc you'll read four articles just to write one sentence
 
 ## [Theory]{style="color:#0e6251"}
 
--   "**explain**s a certain phenomenon, ...
+-   "**explains** a certain phenomenon, ...
 
 -   and the idea is that this explanation **will hold** in a wide range of settings."[^27]
 
--   "theory is any concept, instrument, model, or framework that helps them to think about or solve a problem, to describe a phenomenon, or to **better understand** a topic of interest"
-
 [^27]: @sekaranResearchMethodsBusiness2016
 
-## [Expectancy Theory of Motivation]{style="color:#0e6251"}
+## [Theory]{style="color:#0e6251"}
+
+"theory is any concept, instrument, model, or framework that helps them to think about or solve a problem, to describe a phenomenon, or to **better understand** a topic of interest"
+
+![](https://www.researchgate.net/profile/Betim-Rexhaj-2/publication/279420223/figure/fig2/AS:687010301894658@1540807428662/Vrooms-expectancy-theory-VIE-Source-Borkowski-2011-130.png)
+
+## [*Expectancy Theory of Motivation*]{style="color:#0e6251"}
 
 By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectancy-theory) (in 1964):
 
@@ -1553,71 +1557,67 @@ By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectanc
 
 ## [The Role of Theory]{style="color:#0e6251"}
 
--   Some research is aimed at building theory ...
+-   Some research is aimed at **building theory** ...
 
--   other to test a theory ...
+-   other to **test** a theory ...
 
--   to describe what is going on, using an existing framework, instrument, or model.
+-   to **describe** what is going on, using an existing framework, instrument, or model.
 
-## [The Use of Theory]{style="color:#0e6251"}[^29]
+## [The Use of Theory]{style="color:#0e6251"}[^29] [in Quan Research:]{style="color:#FF6347"}
 
 [^29]: @creswellResearchDesignQualitative2018
 
-### In quantitative research,
+-   Researchers often **test hypotheses** stemming from theories.
 
--   Researchers often test hypotheses stemming from theories.
+-   Broader theory **guiding** to the study hypotheses.
 
--   Broader theory guiding the study hypotheses.
+## [The Use of Theory]{style="color:#0e6251"} [in Qual Research]{style="color:#FF6347"}
 
-## The Use of Theory
+-   It may **generate a theory** as the final outcome of a study and place it at the end of a project
 
-### In qualitative research
+-   Sometimes it comes at the beginning and **provides a lens** that shapes what is looked at and the questions asked
 
--   It may generate a theory as the final outcome of a study and place it at the end of a project
+## [The Use of Theory]{style="color:#0e6251"} [in Mixed Methods]{style="color:#FF6347"}
 
--   Sometimes it comes at the beginning and provides a lens that shapes what is looked at and the questions asked
+-   Researchers may both **test** theories and **generate** them
 
-## The Use of Theory
+-   Contain a theoretical framework within which **both** quantitative and qualitative data are collected
 
-### In mixed methods research
+## [Quantitative Theory Use]{style="color:#0e6251"}
 
--   Researchers may both test theories and generate them
+-   **Causality:** means we would expect variable $X$ to cause variable $Y$.
 
--   Contain a theoretical framework within which both quantitative and qualitative data are collected
+-   Does drinking one glass of red wine daily ($X$) *cause* you have a reduced risk for a heart attack ($Y$)?
 
-## Quantitative Theory Use
+-   Do number of playing hours ($a$) and attendance ($b$) influence the marks in the exam ($z$)?
 
--   Causality: means we would expect variable X to cause variable Y.
+## [Causality]{style="color:#0e6251"}
 
--   Does drinking one glass of red wine daily *cause* you have a reduced risk for a heart attack?
+$$Red\;Wine \longrightarrow Heart\;attack$$ $$X \longrightarrow Y$$
 
-    $$Red\;Wine \longrightarrow Heart\;attack$$
+## [Variables in Quantitative Research]{style="color:#0e6251"}
 
-    $$X \longrightarrow Y$$
+-   **Variable:** "refers to a [characteristic or attribute]{style="color:#FF6347"} of an individual or an organization that can be measured or observed and that [varies]{style="color:#FF6347"} among the people or organization being studied."
 
-## Variables in Quantitative Research
+-   *Gender, age, socio-economic status; attitudes or behaviors such as racism, social control, political power, leadership* etc..
 
--   **Variable:** "refers to a characteristic or attribute of an individual or an organization that can be measured or observed and that varies among the people or organization being studied."
-
--   Gender, age, socio-economic status; attitudes or behaviours such as racism, social control, political power, leadership etc..
-
-## Variables in Quantitative Research
+## [Variables in Quantitative Research]{style="color:#0e6251"}
 
 -   **Independent variables:**
 
-    -   Those that influence, or affect outcomes in experimental studies.
+    -   Those that [influence, or affect outcomes]{style="color:#FF6347"} in experimental studies.
 
-    -   They are manipulated in an experiment and thus independent of all other influences.
+    -   They are [manipulated]{style="color:#FF6347"} in an experiment and thus independent of all other influences.
 
-## Variables in Quantitative Research
+## [Variables in Quantitative Research]{style="color:#0e6251"}
 
 -   **Dependent variables:**
 
     -   Those that depend on the independent variables,
 
-    -   They are the outcomes or results of the influence of the independent variables
+    -   They are the [outcomes or results]{style="color:#FF6347"} of the influence of the independent variables
 
-## Variables in Quantitative Research
+## [Variables in Quantitative Research]{style="color:#0e6251"}
 
 -   Independent variable/Predictor variable
 
@@ -1629,39 +1629,81 @@ By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectanc
 
 -   Moderating variable
 
-## Theory in Quantitative Research
+## [Hypothesis (plural is hypotheses)]{style="color:#0e6251"}[^30]
 
--   "A set of interrelated constructs (variables), definitions, and prepositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena" (adapted from Kerlinger 1979)
+[^30]: @sekaranResearchMethodsBusiness2016
 
-## Theory in Quantitative Research
+-   "a tentative, yet testable, statement, which **predicts** what you expect to find in your **empirical** data."
 
--   "Theory helps to explain (predict) phenomena that occur in the world"
+-   "logically **conjectured relationships** between two or more variables expressed in the form of testable statements"
 
--   "Theories develop when researchers test a prediction over and over."
+## [Hypothesis Development: If-then statements]{style="color:#0e6251"}
 
+-   *Young women will more likely to express dissatisfaction with their body weight, when they are more frequently exposed to images of thin models in advertisements.*
+
+-   *If young women are more frequently exposed to images of thin models in advertisements, then they will be more likely to express dissatisfaction with their body weight.*
+
+## [Directional Hypothesis Development:]{style="color:#0e6251"}
+
+"the direction of the relationship between the variables (positive/negative) is indicated"
+
+-   *The greater the stress experienced in the job, the lower the job satisfaction of employees.*
+
+-   *Women are more motivated than men.*
+
+## [Non-directional Hypothesis Development:]{style="color:#0e6251"}
+
+"postulate a relationship or difference, but offer no indication of the direction of these relationships or differences"
+
+-   *There is a relation between arousal-seeking tendency and consumer preferences for complex product designs.*
+
+-   *There is a difference between the work ethic values of American and Asian employees.*
+
+## [Theory in Quantitative Research]{style="color:#0e6251"}
+
+"A set of **interrelated constructs** (variables), definitions, and prepositions that presents a systematic view of phenomena by **specifying relations** among variables, with the purpose of **explaining natural phenomena**" (adapted from Kerlinger 1979)
+
+![](https://www.researchgate.net/profile/Betim-Rexhaj-2/publication/279420223/figure/fig2/AS:687010301894658@1540807428662/Vrooms-expectancy-theory-VIE-Source-Borkowski-2011-130.png)
+
+## [Theory in Quantitative Research]{style="color:#0e6251"}
+
+-   "Theory helps to **explain (predict)** phenomena that occur in the world"
+
+-   "Theories develop when researchers **test a prediction** over and over."
+
+## [Theory in Quantitative Research]{style="color:#0e6251"}
+
+::: columns
+::: {.column width="60%"}
+![](https://www.researchgate.net/profile/Betim-Rexhaj-2/publication/279420223/figure/fig2/AS:687010301894658@1540807428662/Vrooms-expectancy-theory-VIE-Source-Borkowski-2011-130.png)
+:::
+
+::: {.column width="35%"}
 ![](image/rainbow.jpg){fig-align="center"}
+:::
+:::
 
-## Developing a Theory
+## [Developing a Theory]{style="color:#0e6251"}
 
-1.  Investigators combine independent, mediating, and dependent variables into questions.
+1.  Investigators **combine** independent, mediating, and dependent variables into questions.
 
-2.  These questions provide information about the type of relationship (positive, negative, or unknown) and its magnitude (high or low).
+2.  These questions provide information about the **type of relationship** (positive, negative, or unknown) and its magnitude (high or low).
 
-3.  Forming this information into a predictive statement (hypothesis)
+3.  Forming this information into a **predictive statement** (hypothesis)
 
-4.  When researcher test hypotheses over and over in different settings and with different populations, a theory emerges, and someone gives it a name.
+4.  When researcher **test hypotheses** over and over in different settings and with different populations, a theory emerges, and someone gives it a name.
 
-5.  Theory develops as an explanation to advance knowledge in particular fields.
+5.  Theory develops as an **explanation** to advance knowledge in particular fields.
 
-## Levels of Theory
+## [Levels of Theory]{style="color:#0e6251"}
 
 -   **Micro-level Theories:** provide explanations limited to small slices of time, space, or number of people; such as Goffman's theory of face work.
 
 -   **Meso-level Theories:** link micro and macro levels; like theories of organizations, social movement, or communities; such as Collin's theory of control in organizations.
 
--   **Maco-level Theories:** explain larger aggregates, such as social institutions, cultural systems, and whole societies; such as theory of social stratification.
+-   **Macro-level Theories:** explain larger aggregates, such as social institutions, cultural systems, and whole societies; such as theory of social stratification.
 
-## Placing Theory in a Quant Study
+## Placing Theory in a Quant Study {data-visibility="hidden"}
 
 ```{r}
 theory_tbl <- data.frame(
@@ -1685,15 +1727,15 @@ kbl(theory_tbl) |>
   
 ```
 
-## Writing Quant Theoretical Perspective
+## [Writing Quant Theoretical Perspective]{style="color:#0e6251"}
 
 ::: callout-tip
 "The theory that I will use is .............. (name the theory). It was developed by ................. (identify the origin, source, or developer of the theory), and it was used to study .............. (identify the topics where one finds the theory being applied). This theory indicates that ................. (identify the propositions or hypotheses in the theory). As applied to my study, this theory hold that I would expect my independent variable(s) .............. (state independent variables) to influence or explain the dependent variable(s) ................ (state dependent variables) because .............. (provide a rationale based on the logic of the theory)."
 :::
 
-## Qualitative Theory Use
+## [Qualitative Theory Use]{style="color:#0e6251"} {data-visibility="hidden"}
 
-## Qual Theoretical Perspectives
+## Qual Theoretical Perspectives {data-visibility="hidden"}
 
 -   **Feminist perspectives**: realizing social justice for women.
 
@@ -1705,11 +1747,11 @@ kbl(theory_tbl) |>
 
 -   **Disability inquiry:** understanding this population's sociocultural perspectives.
 
-## Inductive Logic in Qual Study
+## Inductive Logic in Qual Study {data-visibility="hidden"}
 
 $$Researcher\;poses\;generalizations\;or\;theories\\from\;past\;experience\;and\;literature\\ \uparrow \\ Researcher\;looks\;for\;broad\;patterns,\\\; generalizations,\;or\;theories\;from\;themes\;or\;categories$$
 
-## Research Strategy
+## Research Strategy {data-visibility="hidden"}
 
 -   Deductive Research
 
@@ -1717,13 +1759,103 @@ $$Researcher\;poses\;generalizations\;or\;theories\\from\;past\;experience\;and\
 
 ------------------------------------------------------------------------
 
+::: nonincremental
 ::: callout-important
 ## KEY TERMS
 
+-   Variables
 -   Causality
+-   Theory
+:::
 :::
 
-# [METHODS]{style="color:#ffffff"} {#sec-method background-image="image/method1.jpg" background-size="contain" background-position="right" background-color="black"}
+# [METHODS]{style="color:#ffffff"} {#sec-method background-image="image/method.jpg" background-size="contain" background-position="right" background-color="black" style="text-align: left"}
+
+## Methods[^31]
+
+[^31]: @creswellResearchDesignQualitative2018
+
+-   Quantitative Methods
+
+    -   Survey designs
+    -   Experimental design
+
+"both approaches share a common goal of helping the researcher make inferences about relationships among variables, and how the sample results may generalize to a broader population of interest"    
+
+-   Qualitative Methods
+
+## Quantitative Methods
+
+-   "these designs reflect post-positivist philosophical assumptions"
+
+- "examining the relationships between and among variables is central"
+
+## Survey Design
+
+"provides a **quantitative description** of trends, attitudes, and opinions of population, or tests for **associations among variables** of a population, by studying a **sample** of that population"
+
+## Survey Design Helps
+
+- Descriptive Questions
+  - *What percentage of students experience ragging in the higher education?*
+
+- Questions about the relationships between variables
+  - *Is there a positive association between the number of study hours and the marks obtained?*
+  
+- Questions about predictive relationships between variables over time
+  - *Does number of study hours can predict the exam anxiety of the students?*
+  
+---
+
+::: {.callout-caution collapse="true"}
+## A Checklist of Questions for Designing a Survey Study Plan
+
+:white_check_mark: Is the purpose of a survey design stated?
+
+:white_check_mark: What type of design will be used and what are the reasons for choosing the design mentioned?
+
+:white_check_mark: Is the nature of the survey (cross-sectional vs. longitudinal) identified?
+
+:white_check_mark: Is the population and its size mentioned?
+
+:white_check_mark: Will the population be stratified? If so, how?
+
+:white_check_mark: How many people will be in the sample? On what basis was the size chosen?
+
+:white_check_mark: What will be the procedure for sampling these individuals (e.g., random, nonrandom)?
+
+:white_check_mark: What instrument will be used in the survey? For each instrument, who developed it, how many items does it contain, does it have acceptable reliability and validty, and what are the scale anchors?
+
+:white_check_mark: What procedure will be used to pilot or field-test the survey?
+
+:white_check_mark: What is the timeline for administering the survey?
+
+:white_check_mark: What is the timeline for administering the survey?
+
+:white_check_mark: How will the measures be scored and converted into variables?
+
+:white_check_mark: How will the variables be used to test your research questions?
+
+:white_check_mark: What specific steps will be taken in data analysis to do the following:
+
+  - Analyze returns?
+  
+  - Check for responses bias?
+  
+  - Conduct a descriptive analysis?
+  
+  - Combine items into scales?
+  
+  - Check for reliability of scales?
+  
+  - Run inferential statistics to answer the research questions or assess practical implications of the results?
+
+:white_check_mark: How will the results be interpreted?  
+:::
+
+## Experiment Design
+
+"systematically manipulates one or more variables in order to evaluate how this manipulation impacts an outcome (or outcomes) of interest"
 
 # [DATA<br>ANALYSIS]{style="color:#ffffff"} {#sec-analysis background-image="image/analysis.jpg" background-size="contain" background-position="right" background-color="black"}
 
