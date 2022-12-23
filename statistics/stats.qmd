@@ -1,0 +1,43 @@
+---
+title: "Basics of Statistics"
+author: "Wardha Class"
+format: html
+editor: visual
+---
+
+## Penguins
+
+This penguins data is from R package palmerpenguins.
+
+```{r}
+library(palmerpenguins)
+
+penguins
+```
+
+```{r}
+library(tidyverse)
+
+glimpse(mtcars)
+```
+
+```{r}
+glimpse(diamonds)
+```
+
+## Desricptive stats using skimr
+
+### Using `summary`
+
+```{r}
+summary(penguins)
+```
+
+### Using skimr
+
+```{r}
+library(skimr)
+
+skim(penguins)
+```
+

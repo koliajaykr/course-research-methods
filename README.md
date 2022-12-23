@@ -48,6 +48,8 @@ countdown::countdown(minutes = 05, right = "20%", top = "-4%", play_sound = TRUE
 
 [red words]{style="color:#A51C30"}
 
+#3D3D3D
+
 ## Size of a larger chunk
 
 ::: {style="font-size: 1.5em; text-align: center"}
@@ -58,6 +60,7 @@ text
 text
 :::
 
+{style="text-align: center"}
 
 ## Research
 

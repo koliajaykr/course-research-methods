@@ -1183,7 +1183,7 @@ OR
 
 ![](image/parsimony.gif){fig-align="center"}
 
-# [:shallow_pan_of_food:cook<br>book:nerd_face:]{style="color:#000000"} {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
+# [:shallow_pan_of_food:cook<br>book:yum:]{style="color:#000000"} {.big-text background-image="image/cookbook.jpg" background-size="cover" style="text-align: center"}
 
 ## :shallow_pan_of_food: Let's cook...
 
@@ -1555,6 +1555,16 @@ By [Victor Vroom](https://www.sciencedirect.com/topics/social-sciences/expectanc
 
 -   "individuals are motivated to perform if they know that their extra performance is recognized and rewarded"
 
+## [Classical Conditioning]{style="color:#0e6251"}
+
+by Ivan Pavlov
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Classical_Conditioning_Diagram.png/220px-Classical_Conditioning_Diagram.png){fig-align="center"}
+
+::: aside
+Source: <https://en.wikipedia.org/wiki/Ivan_Pavlov>
+:::
+
 ## [The Role of Theory]{style="color:#0e6251"}
 
 -   Some research is aimed at **building theory** ...
@@ -1780,32 +1790,36 @@ $$Researcher\;poses\;generalizations\;or\;theories\\from\;past\;experience\;and\
     -   Survey designs
     -   Experimental design
 
-"both approaches share a common goal of helping the researcher make inferences about relationships among variables, and how the sample results may generalize to a broader population of interest"    
+-   "both approaches share a common goal of helping the researcher make **inferences about relationships** among variables, and how the sample results may **generalize** to a broader population of interest"
+
+## Methods
 
 -   Qualitative Methods
 
 ## Quantitative Methods
 
--   "these designs reflect post-positivist philosophical assumptions"
+-   "these designs reflect **post-positivist** philosophical assumptions"
 
-- "examining the relationships between and among variables is central"
+-   "examining the **relationships** between and among variables is central"
 
 ## Survey Design
 
-"provides a **quantitative description** of trends, attitudes, and opinions of population, or tests for **associations among variables** of a population, by studying a **sample** of that population"
+-   "provides a **quantitative description** of trends, attitudes, and opinions of population, or...
+
+-   tests for **associations among variables** of a population,...
+
+-   by studying a **sample** of that population."
 
 ## Survey Design Helps
 
-- Descriptive Questions
-  - *What percentage of students experience ragging in the higher education?*
+-   **Descriptive** Questions
+    -   [*What percentage of students experience ragging in the higher education?*]{style="color:#3D3D3D"}
+-   Questions about the **relationships** between variables
+    -   [*Is there a positive association between the number of study hours and the marks obtained?*]{style="color:#3D3D3D"}
+-   Questions about **predictive relationships** between variables over time
+    -   [*Does number of study hours can predict the exam anxiety of the students?*]{style="color:#3D3D3D"}
 
-- Questions about the relationships between variables
-  - *Is there a positive association between the number of study hours and the marks obtained?*
-  
-- Questions about predictive relationships between variables over time
-  - *Does number of study hours can predict the exam anxiety of the students?*
-  
----
+------------------------------------------------------------------------
 
 ::: {.callout-caution collapse="true"}
 ## A Checklist of Questions for Designing a Survey Study Plan
@@ -1838,20 +1852,310 @@ $$Researcher\;poses\;generalizations\;or\;theories\\from\;past\;experience\;and\
 
 :white_check_mark: What specific steps will be taken in data analysis to do the following:
 
-  - Analyze returns?
-  
-  - Check for responses bias?
-  
-  - Conduct a descriptive analysis?
-  
-  - Combine items into scales?
-  
-  - Check for reliability of scales?
-  
-  - Run inferential statistics to answer the research questions or assess practical implications of the results?
+::: nonincremental
+-   Analyze returns?
 
-:white_check_mark: How will the results be interpreted?  
+-   Check for responses bias?
+
+-   Conduct a descriptive analysis?
+
+-   Combine items into scales?
+
+-   Check for reliability of scales?
+
+-   Run inferential statistics to answer the research questions or assess practical implications of the results?
 :::
+
+:white_check_mark: How will the results be interpreted?
+
+Source: @creswellResearchDesignQualitative2018
+:::
+
+## The Survey Design
+
+-   Identify the **purpose** of survey research: questions about variables of interest to you.
+
+-   Specify the **form** of data collection,
+
+    -   Like mail, telephone, the internet, personal interviews, or group administration
+
+    -   Provide **rationale** for the procedure, strengths and weaknesses, costs, data availability, and convenience.
+
+## The Survey Design
+
+-   Indicate **why a survey** methods is the preferred type of approach for this study.
+
+-   Indicate whether the survey will be
+
+    -   **Cross-sectional** - the data collected at one point in time.
+
+    -   **Longitudinal** - with the data collected over time.
+
+## The Population & Sample
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="975"}
+
+::: aside
+Image source: <https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png>
+:::
+
+## The Population & Sample
+
+![](https://hplusmagazine.com/wp-content/uploads/2015/05/sampling-and-inference.gif){fig-align="center" width="975"}
+
+::: aside
+Image source: <https://hplusmagazine.com/wp-content/uploads/2015/05/sampling-and-inference.gif>
+:::
+
+## The Population
+
+"refers to the **entire group** of people, events, or things of interest that the researcher wishes to investigate."
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="575"}
+
+## Element
+
+"An element in a **single member** of the population"
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="575"}
+
+## Sample
+
+"a **subset** of the population. It comprises **some members** selected from it, some, but not all, elements of the population form the sample"
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="500%"}
+
+## Sample
+
+"by studying the sample, the researcher should be able to draw conclusions that are **generalizable** to the population of interest."
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="575"}
+
+## Subject
+
+"A subject is a **single member** of the sample, just as an element is a single member of the population"
+
+![](https://learninglink.oup.com/static/5e29bfc369c98b0010b09170/resources/sampling.png){fig-align="center" width="575"}
+
+## Sampling Unit
+
+"The sampling unit is the element or set of elements that is available for selection in some stage of the sampling process."
+
+## Sampling
+
+"The process of selecting the right individuals, objects, or events as **representatives** for the entire population"
+
+![](https://hplusmagazine.com/wp-content/uploads/2015/05/sampling-and-inference.gif){fig-align="center" width="975"}
+
+## The Sampling Process
+
+1.  Define the **population**.
+
+2.  Determine the **sample frame**.
+
+3.  Determine the **sampling design.**
+
+4.  Determine the appropriate **sample size**.
+
+5.  Execute the **sampling process**.
+
+## The Sampling Process...
+
+1.  Define the **population** ... in terms of elements, geographical boundaries, and time.
+
+2.  Determine the **sample frame** ... a representation of all the elements in the population from which the sample is drawn ... it may not be always be a current, up-to-date document
+
+3.  Determine the **sampling design**.
+
+    -   Non-Probability sampling
+    -   Probability sampling
+
+## The Sampling Process
+
+4.  Determining the **sample size**.
+
+-   Indicate the number of people in the sample and the procedures to compute this number.
+
+-   Sample trade off: larger sample more accuracy in the inferences but more sample more time and cost.
+
+## Non-Probability Sampling
+
+-   "Any technique in which samples are selected in some way **not suggested by probability theory**"
+
+    -   Relying on available subjects, such as stopping people at a street corner or some other location
+
+    -   "risky" sampling method for social research
+
+    -   No control over the representativeness of a sample
+
+## Purposive or Judgemental Sampling
+
+**(Non-Probability Sampling)**
+
+![](https://rm-15da4.kxcdn.com/wp-content/uploads/2012/06/Purposive-sampling.jpg)
+
+## Purposive or Judgemental Sampling
+
+**(Non-Probability Sampling)**
+
+-   "the units to be observed are selected on the basis of the **researcher's judgement** about which ones will be the most useful or representative"
+
+-   "situation being studied becomes clearer and **certain types of subjects seem more central** to understanding than others"
+
+## Snowball Sampling
+
+**(Non-Probability Sampling)**
+
+![](image/snow.jpeg)
+
+## Snowball Sampling
+
+**(Non-Probability Sampling)**
+
+-   "each person interviewed may be asked to **suggest additional people** for interviewing"
+
+-   "appropriate when the members of a **special population** are difficult to locate"
+
+-   "often employed in field research"
+
+## Quota Sampling
+
+**(Non-Probability Sampling)**
+
+![](https://images.deepai.org/glossary-terms/1d26bd13f5af4c7f9b475c5bb4bf8812/65-Quota-Sampling.jpg)
+
+## Quota Sampling
+
+**(Non-Probability Sampling)**
+
+-   "units are selected for a sample on the basis of **pre-specified characteristics**, so that the total sample will have the same distribution of characteristics assumed to exist in the population being studied."
+
+## Probability Sampling
+
+-   "When researchers want **precise, statistical descriptions** of large populations"
+
+-   "The general term for samples selected in **accordance with probability theory**, typically involving some **random-selection** mechanism"
+
+## Representativeness
+
+![](https://sixsigmastudyguide.com/wp-content/uploads/2020/12/ds35-1.png)
+
+## Representativeness[^32]
+
+[^32]: @babbiePracticeSocialResearch2020
+
+-   "that quality of a sample of having the **same distribution of characteristics** as the population from which it was selected"
+
+-   "By implication, description and explanation derived from an analysis of the sample may be **assumed to represent similar** ones in the population."
+
+-   "Representativeness is enhanced by probability sampling and provides for **generalizability** and the use of inferential statistics"
+
+## Probability Sampling Methods:
+
+-   Simple Random Sampling (SRS)
+
+-   Systematic Random Sampling,
+
+-   Cluster Sampling, and
+
+-   Stratified Random Sampling
+
+## Simple Random Sampling (SRS)
+
+**(Probability Sampling Methods)**
+
+"A type of probability sampling in which the units composing a population are assigned numbers. A set of **random numbers** is generated, and the units having those numbers are included in the sample"
+
+::: aside
+Good Video: <https://www.youtube.com/watch?v=yx5KZi5QArQ>
+:::
+
+## Simple Random Sampling (SRS)
+
+**(Probability Sampling Methods)**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Simple_random_sampling.PNG/600px-Simple_random_sampling.PNG){fig-align="center"}
+
+## Systematic Random Sampling
+
+**(Probability Sampling Methods)**
+
+"A type of probability sampling in which every $k$th unit in list is selected in the sample"
+
+![](https://www.mathstopia.net/wp-content/uploads/2021/01/Systematic-Random-Sampling.jpg){fig-align="center"}
+
+## Cluster Sampling
+
+**(Probability Sampling Methods)**
+
+"A multistage sampling in which natural groups (clusters) are sampled initially, with the members of each selected group being subsampled afterward."
+
+## Cluster Sampling
+
+**(Probability Sampling Methods)**
+
+"A multistage sampling in which natural groups (clusters) are sampled initially, with the members of each selected group being subsampled afterward."
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/60/Cluster_sampling.PNG){fig-align="center"}
+
+## Stratified Random Sampling
+
+**(Probability Sampling Methods)**
+
+Stratification: "The grouping of the units composing a population into homogeneous groups before sampling"
+
+## Stratified Random Sampling
+
+**(Probability Sampling Methods)**
+
+Stratification: "The grouping of the units composing a population into homogeneous groups before sampling"
+
+![](https://cdn.scribbr.com/wp-content/uploads/2020/09/stratified-sample-7.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+::: nonincremental
+::: columns
+::: {.column width="60%"}
+### Non Probability Sampling
+
+-   Purposive Sampling
+-   Snowball Sampling
+-   Quota Sampling
+:::
+
+::: {.column width="40%"}
+### Probability Sampling
+
+-   Simple Random Sampling
+-   Systematic Random Sampling
+-   Cluster Sampling
+-   Stratified Sampling
+:::
+:::
+:::
+
+## Instrumentation
+
+-   Name the survey instruments used to collect data.
+
+-   Validity of scores using the instrument.
+
+    -   Content validity
+    -   Predictive or concurrent validity
+    -   Construct validity
+
+-   Reliability of scores on the instrument.
+
+    -   Consistency or repeat-ability of instrument
+
+-   Sample items.
+
+-   Content of instrument.
+
+-   Pilot testing.
+
+-   Administering the survey.
 
 ## Experiment Design
 
